@@ -70,11 +70,11 @@ Quantitative
 
 Publications
 ======
-**Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis. Multiple sclerosis and related disorders. 2017 Nov 1;18:196-201. DOI: https://doi.org/10.1016/j.msard.2017.10.002
+**Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis. Multiple sclerosis and related disorders. 2017 Nov 1;18:196-201. [Link](https://doi.org/10.1016/j.msard.2017.10.002)
 
 Abstracts and presentations
 ======
-Garikapati, S., **Eagle, T.**, Distefano, G., Hagberg, S., Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses., NYC Neuromodulation 2020 Online Conference, P27, DOI: https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html
+Garikapati, S., **Eagle, T.**, Distefano, G., Hagberg, S., Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses., NYC Neuromodulation 2020 Online Conference, P27 [Link](https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html)
 
 Garikapati, S., **Eagle, T.**, Distefano, G., & Hagberg, S., Interoception: A Window to Psychopathological Disorders, American Psychological Association, Chicago, IL, August 2019.
 
