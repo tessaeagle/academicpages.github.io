@@ -19,31 +19,34 @@ Education
 
 Research experience
 ======
-* 9/2019 - 	Graduate Student Researcher, UC Santa Cruz
+* 2019 - Graduate Student Researcher, UC Santa Cruz
 	* Human Computer Interaction Lab, PI Steve Whittaker, PhD
 	* Research mobile apps for mental health, behavior change, and digital health
 	* Evaluate and develop conversational agents
 	* Train and manage a team of seven undergraduate research assistants
 
-* 9/2018 - 7/2019	Research Assistant, Brigham and Women’s Hospital		Center for Surgery and Public Health, PI Zara Cooper, MD
+* 2018-2019 Research Assistant, Brigham and Women’s Hospital		
+	* Center for Surgery and Public Health, PI Zara Cooper, MD
 	* Screened, recruited, and enrolled patients in clinical research studies
 	* Conducted qualitative studies with elderly general surgery patients examining QOL
 	* Developed and maintained IRB protocols and amendments
 	* Assisted in researching and writing grant proposals, granted funding for one proposal
 	
-* 1/2018 - 9/2018	Research Assistant, Apex Neuro	
+* 2018 Research Assistant, Apex Neuro	
 	* Ran 500+ EEG participants with proprietary neuromodulation technology
 	* Conducted usability studies and user interviews
 	* Developed and revised study protocols and IRB documents
 	* Trained and managed a team of three interns
 	
-* 5/2016 - 1/2018	Clinical Research Coordinator, Brigham and Women’s Hospital		Partners Multiple Sclerosis Center, PI Howard Weiner, MD
+* 2016-2018 Clinical Research Coordinator, Brigham and Women’s Hospital
+	* Partners Multiple Sclerosis Center, PI Howard Weiner, MD
 	* Screened, recruited, and consented patients for cross-sectional/longitudinal studies 
-  * Maintained CLIMB study of 2000+ MS patients 
-  * Administered cognitive tests and collected biological samples for a Verily study
-  * Authored a paper on treatment satisfaction
+	* Maintained CLIMB study of 2000+ MS patients 
+	* Administered cognitive tests and collected biological samples for a Verily study
+	* Authored a paper on treatment satisfaction
 
-* 12/2014 - 5/2016	Research Assistant, University of Rochester		Baby Lab - Seedlings Word Learning Study, PI Elika Bergelson, PhD
+* 2014-2016 Research Assistant, University of Rochester
+	* Baby Lab - Seedlings Word Learning Study, PI Elika Bergelson, PhD
 	* Annotated audio and video home-corpus data
 	* Created and maintained python scripts for data manipulation
 	* Completed honors thesis on motor-language links
