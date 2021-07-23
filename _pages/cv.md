@@ -17,17 +17,36 @@ Education
   * Thesis: “Like Talking To A Person”: User-perceived Benefits Of Mental Health And Wellness Mobile Apps
 * Ph.D in Computational Media, University of California, Santa Cruz, 2024 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 9/2019 - 	Graduate Student Researcher, UC Santa Cruz
+	* Human Computer Interaction Lab, PI Steve Whittaker, PhD
+	* Research mobile apps for mental health, behavior change, and digital health
+	* Evaluate and develop conversational agents
+	* Train and manage a team of seven undergraduate research assistants
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 9/2018 - 7/2019	Research Assistant, Brigham and Women’s Hospital		Center for Surgery and Public Health, PI Zara Cooper, MD
+	* Screened, recruited, and enrolled patients in clinical research studies
+	* Conducted qualitative studies with elderly general surgery patients examining QOL
+	* Developed and maintained IRB protocols and amendments
+	* Assisted in researching and writing grant proposals, granted funding for one proposal
+	
+* 1/2018 - 9/2018	Research Assistant, Apex Neuro	
+	* Ran 500+ EEG participants with proprietary neuromodulation technology
+	* Conducted usability studies and user interviews
+	* Developed and revised study protocols and IRB documents
+	* Trained and managed a team of three interns
+	
+* 5/2016 - 1/2018	Clinical Research Coordinator, Brigham and Women’s Hospital		Partners Multiple Sclerosis Center, PI Howard Weiner, MD
+	* Screened, recruited, and consented patients for cross-sectional/longitudinal studies 
+  * Maintained CLIMB study of 2000+ MS patients 
+  * Administered cognitive tests and collected biological samples for a Verily study
+  * Authored a paper on treatment satisfaction
+
+* 12/2014 - 5/2016	Research Assistant, University of Rochester		Baby Lab - Seedlings Word Learning Study, PI Elika Bergelson, PhD
+	* Annotated audio and video home-corpus data
+	* Created and maintained python scripts for data manipulation
+	* Completed honors thesis on motor-language links
   
 Skills
 ======
@@ -52,13 +71,10 @@ Eagle T, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-3/2021-6/2021	Teaching Assistant, UC Santa Cruz, Game Design Experience
-1/2021-3/2021	Teaching Assistant, UC Santa Cruz, Introduction to 3D Animation
-9/2020-12/2020	Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling
-1/2020-3/2020	Teaching Assistant, UC Santa Cruz, Computer-Mediated Communication
-9/2019-12/2019	Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling
+3/2021-6/2021	Teaching Assistant, UC Santa Cruz, Game Design Experience<br>
+1/2021-3/2021	Teaching Assistant, UC Santa Cruz, Introduction to 3D Animation<br>
+9/2020-12/2020	Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
+1/2020-3/2020	Teaching Assistant, UC Santa Cruz, Computer-Mediated Communication<br>
+9/2019-12/2019	Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
 9/2015 - 5/2016	Teaching Assistant, University of Rochester, Web Design and Development
   
