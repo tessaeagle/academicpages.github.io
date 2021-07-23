@@ -32,7 +32,7 @@ Research experience
 	* Developed and maintained IRB protocols and amendments
 	* Assisted in researching and writing grant proposals, granted funding for one proposal
 	
-* **2018 Research Assistant, Apex Neuro	**
+* **2018 Research Assistant, Apex Neuro**
 	* Ran 500+ EEG participants with proprietary neuromodulation technology
 	* Conducted usability studies and user interviews
 	* Developed and revised study protocols and IRB documents
