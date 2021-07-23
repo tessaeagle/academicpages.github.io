@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Brain and Cognitive Science, University of Rochester, 2016**
-  * Honors Thesis: “Language and Motor Development in Infants based on Observation and Parental Report” 
+* **Ph.D in Computational Media, University of California, Santa Cruz, 2024 (expected)**
 * **M.S. in Computational Media, University of California, Santa Cruz, 2021**
   * Thesis: “Like Talking To A Person”: User-perceived Benefits Of Mental Health And Wellness Mobile Apps
-* **Ph.D in Computational Media, University of California, Santa Cruz, 2024 (expected)**
+* **B.S. in Brain and Cognitive Science, University of Rochester, 2016**
+  * Honors Thesis: “Language and Motor Development in Infants based on Observation and Parental Report” 
 
 Research experience
 ======
