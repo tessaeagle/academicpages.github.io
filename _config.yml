@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tessa Eagle"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tessa Eagle"
 description              : &description "PhD student in Human Computer Interaction"
