@@ -83,7 +83,7 @@ author:
   name             : "Tessa Eagle"
   avatar           : "profile.png"
   bio              : "PhD student in Computational Medi at UC Santa Cruz interested in Digital Mental Health"
-  location         : "Location"
+  location         : "Santa Cruz, CA"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=DQOZk7EAAAAJ&hl=en&authuser=1"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
