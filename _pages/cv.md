@@ -19,13 +19,13 @@ Education
 
 Research experience
 ======
-* 2019 - present: Graduate Student Researcher, UC Santa Cruz
-* 2018-2019: Research Assistant, Brigham and Women’s Hospital	
+* 2019 - present: *Graduate Student Researcher*, UC Santa Cruz
+* 2018-2019: *Research Assistant*, Brigham and Women’s Hospital	
 	* Center for Surgery and Public Health
-* 2018: Research Assistant, Apex Neuro
-* 2016-2018: Clinical Research Coordinator, Brigham and Women’s Hospital
+* 2018: *Research Assistant*, Apex Neuro
+* 2016-2018: *Clinical Research Coordinator*, Brigham and Women’s Hospital
 	* Partners Multiple Sclerosis Center
-* 2014-2016: Research Assistant, University of Rochester
+* 2014-2016: *Research Assistant*, University of Rochester
   
 Skills
 ======
