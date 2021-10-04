@@ -25,7 +25,7 @@ Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., Mechanical affective
 
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., Interoception: A Window to Psychopathological Disorders, American Psychological Association, Chicago, IL, August 2019.
 
-**Eagle T.**, Distefano, G., Garikapati, S., Brock, J., & Hagberg, S., Non-invasive neural stimulation: Understanding outcomes as if all the neurophysiology mattered: the case for interoception, North American Neuromodulation Society, New York, NY, August 2018.
+**Eagle T.**, Distefano, G., Garikapati, S., Brock, J., & Hagberg, S., Non-invasive neural stimulation: Understanding outcomes as if all the neurophysiology mattered: the case for interoception, North American Neuromodulation Society, New York, NY, August 2018. [(Abstract)](https://www.brainstimjrnl.com/article/S1935-861X(18)30518-7/fulltext#relatedArticles)
 
 Bergelson, E., and **Eagle, T.**, Links between talking, walking, and pointing: analysis of parental report and observation, Boston University Conference for Language Development, Boston, MA, November 2016. (Acceptance rate 44%)
 
