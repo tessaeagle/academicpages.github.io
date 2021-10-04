@@ -21,7 +21,7 @@ author_profile: true
 **Eagle, T.** and Ringland K.E. Social Media-Based Community Support for People with Differing ADHD Diagnoses. Workshop: The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support. CSCW 2021
 
 <h2>ACCEPTED ABSTRACTS AND PRESENTATIONS</h2>
-Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses., NYC Neuromodulation 2020 Online Conference, P27, [Full Text](https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html)
+Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses., NYC Neuromodulation 2020 Online Conference, P27, [(Full Text and Poster)](https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html)
 
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., Interoception: A Window to Psychopathological Disorders, American Psychological Association, Chicago, IL, August 2019.
 
