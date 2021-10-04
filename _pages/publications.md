@@ -21,11 +21,11 @@ author_profile: true
 **Eagle, T.** and Ringland K.E. Social Media-Based Community Support for People with Differing ADHD Diagnoses. Workshop: The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support. CSCW 2021
 
 <h2>ACCEPTED ABSTRACTS AND PRESENTATIONS</h2>
-Garikapati, S., Eagle, T., Distefano, G., & Hagberg, S., Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses., NYC Neuromodulation 2020 Online Conference, P27, DOI: https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html
+Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses., NYC Neuromodulation 2020 Online Conference, P27, DOI: https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html
 
-Garikapati, S., Eagle, T., Distefano, G., & Hagberg, S., Interoception: A Window to Psychopathological Disorders, American Psychological Association, Chicago, IL, August 2019.
+Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., Interoception: A Window to Psychopathological Disorders, American Psychological Association, Chicago, IL, August 2019.
 
-Eagle, T., Distefano, G., Garikapati, S., Brock, J., & Hagberg, S., Non-invasive neural stimulation: Understanding outcomes as if all the neurophysiology mattered: the case for interoception, North American Neuromodulation Society, New York, NY, August 2018.
+**Eagle T.**, Distefano, G., Garikapati, S., Brock, J., & Hagberg, S., Non-invasive neural stimulation: Understanding outcomes as if all the neurophysiology mattered: the case for interoception, North American Neuromodulation Society, New York, NY, August 2018.
 
 Bergelson, E., and **Eagle, T.**, Links between talking, walking, and pointing: analysis of parental report and observation, Boston University Conference for Language Development, Boston, MA, November 2016. (Acceptance rate 44%)
 
