@@ -16,4 +16,4 @@ My current work focuses on mobile apps for health and wellness, conversational a
 * Analysis of Mental Health Chatbots
 * Behavior Change Interventions
             
-I post my attempts to teach myself data visualization with R on <a href="https://github.com/tessaeagle/TidyTuesday">GitHub</a>. Feel free to email me at teagle@ucsc.edu or read more about my experience: <a href="https://drive.google.com/file/d/1lPqjDaBlUbujdHZoSc6zd7jZ9RjLHfqQ/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
+I post my attempts to teach myself data visualization with R on <a href="https://github.com/tessaeagle/TidyTuesday">GitHub</a>. Feel free to email me at teagle@ucsc.edu or read more about my experience: <a href="https://drive.google.com/file/d/1AvlBFDIM3mQvjkh9AGMODhZS_KbCKxPk/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
