@@ -10,7 +10,7 @@ redirect_from:
 
 I am a human computer interaction researcher and third-year PhD student in <a href="https://www.soe.ucsc.edu/departments/computational-media">Computational Media</a> at UC Santa Cruz with a background in cognitive science and healthcare. My research interests include Digital Mental Health, Behavior Change, and Neurodivergence. I am passionate about using and evaluating technology to improve people's wellbeing. 
 
-My current work focuses on mobile apps for health and wellness, online health communities, and behavior change. 
+My current work focuses on mobile apps for health and wellness, online health communities, accessibility, and behavior change. 
 * Review of Mobile Apps for Mental Health
 * Social Media Community Support
 * Behavior Change Interventions
