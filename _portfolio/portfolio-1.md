@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization - TidyTuesday"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/tt.png'>"
+excerpt: "Repository of my participation in <a href="https://github.com/rfordatascience/tidytuesday">R for Data Science's Tidy Tuesday</a> community of practice.<br/><img src='/images/tt.png'>"
 collection: portfolio
 ---
 
