@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a human computer interaction researcher and third-year PhD student in <a href="https://www.soe.ucsc.edu/departments/computational-media">Computational Media</a> at UC Santa Cruz with a background in cognitive science and healthcare. My research interests include digital mental health, behavior change, and support for neurodivergent individuals. My work focuses on alternative solutions to traditional mental health care and community-based avenues for supporting individuals with mental health conditions. I am passionate about using and evaluating technology to improve people's wellbeing. 
+I am a human computer interaction researcher and third-year PhD student in <a href="https://www.soe.ucsc.edu/departments/computational-media">Computational Media</a> at UC Santa Cruz with a background in cognitive science and healthcare. My research interests include digital mental health, behavior change, and support for neurodivergent individuals. My work focuses on alternative support systems for neurodiverse individuals and people with psychosocial disabilities including community-based avenues for support. I am passionate about using and evaluating technology to improve and support wellbeing and inclusive experiences.
 
 My current work focuses on alternative methods of mental health support, online health communities, accessibility, and behavior change. 
 * Social Media Community Support and Care
