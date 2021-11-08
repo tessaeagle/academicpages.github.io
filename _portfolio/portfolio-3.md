@@ -1,6 +1,6 @@
 ---
 title: "Interactive App Recommender"
-excerpt: "xx<br/><img src='/images/kaizen2.png'>"
+excerpt: "Interactive prototype designed to guide users through a set of questions in order to present them a small set of relevant mental health apps<br/><img src='/images/kaizen2.png'>"
 collection: portfolio
 ---
 
