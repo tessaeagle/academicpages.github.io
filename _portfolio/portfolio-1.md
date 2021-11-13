@@ -6,6 +6,6 @@ collection: portfolio
 
 # TidyTuesday
 
-[(Repository)](https://github.com/tessaeagle/TidyTuesday) of R4DS TidyTuesday attempts starting June 2020 in attempts to teach myself R data visualization and wrangling. 
+[Repository](https://github.com/tessaeagle/TidyTuesday) of R4DS TidyTuesday attempts starting June 2020 in attempts to teach myself R data visualization and wrangling. 
 
 
