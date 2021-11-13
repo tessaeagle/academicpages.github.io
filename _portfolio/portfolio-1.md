@@ -11,8 +11,10 @@ Repository of R4DS TidyTuesday attempts starting June 2020 in attempts to teach 
 
 ## 2021
 ### Week 13 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_30_21.R)
-<img src="https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_30_21_all_shades.png">
+<img src="tessaeagle/TidyTuesday/blob/master/2021/3_30_21_all_shades.png">
 <img src="https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_30_21.png" alt="">
+
+
 
 
 ### Week 13 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_23_21.R)
