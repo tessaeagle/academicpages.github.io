@@ -1,7 +1,7 @@
 ---
 title: "Predation Machine Learning"
 excerpt: "This project involves identifying predatory behaviors in mental health apps using training data to generate a model for analyzing large datasets of user reviews.
-<br/><img src='images/google_play.png'>[Image from](https://blog.google/products/google-play/)"
+<br><br><img src='images/google_play.png'><br>[Image from](https://blog.google/products/google-play/)"
 collection: portfolio
 ---
 
