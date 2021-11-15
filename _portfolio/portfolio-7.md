@@ -1,6 +1,6 @@
 ---
 title: "GPT-2 Tracery Twitterbot"
-excerpt: "Development of a Twitterbot using Tracery to post GPT-2 generated content<br><br><img src='/images/gpt.png'>"
+excerpt: "Development of a Twitterbot using [Tracery](https://cheapbotsdonequick.com/) to post GPT-2 generated content<br><br><img src='/images/gpt.png'>"
 collection: portfolio
 ---
 
