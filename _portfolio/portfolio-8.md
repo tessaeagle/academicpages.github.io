@@ -5,7 +5,7 @@ excerpt: "This project involves identifying predatory behaviors in mental health
 collection: portfolio
 ---
 
-# Overview
+## Overview
 
 We previously conducted a qualitative thematic analysis of user reviews left on mental health apps on the Google Play Store, developing a codebook with five categories and nine subcodes. We noted that ~6% of reviews contained descriptions of predatory monetary practices implemented by app developers (see table).
 
