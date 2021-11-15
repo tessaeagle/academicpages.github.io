@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 # Chatbot Development
-## Goal: Develop a chatbot system to recommend mental health mobile apps and quickly reduce a large set of apps to a handful of personalized options
+**Goal:** Develop a chatbot system to recommend mental health mobile apps and quickly reduce a large set of apps to a handful of personalized options
 
 ## App recommendations
 - Clear need for unbiased information on MH apps, Third-party systems can provide this
