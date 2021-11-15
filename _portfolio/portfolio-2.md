@@ -4,16 +4,16 @@ excerpt: "Development of a chatbot system through Botsociety to recommend mental
 collection: portfolio
 ---
 
-Chatbot Development
-Goal: Develop a chatbot system to recommend mental health mobile apps and quickly reduce a large set of apps to a handful of personalized options
+# Chatbot Development
+## Goal: Develop a chatbot system to recommend mental health mobile apps and quickly reduce a large set of apps to a handful of personalized options
 
-App recommendations
+## App recommendations
 - Clear need for unbiased information on MH apps, Third-party systems can provide this
 - Current sites have limitations, Finding a suitable app can be overwhelming
 - Recommendations can increase the speed of decision making [1]
 - Prior app rec sys have required user app history to make recommendations [2,3]
 
-Conversational recommendations
+## Conversational recommendations
 - CRS interact with users via text or preset to elicit preferences
 - Task-oriented CAs can interact with customers helping them find items or services more effectively [4]
 
@@ -26,12 +26,12 @@ There are currently a small number of academic websites that conduct expert eval
 
 We developed two rule-based chatbots for providing mental health app recommendations. Based upon our pilot interviews and app store analysis, we decided on two models: Need-based and feature-based.
 
-Methods
+## Methods
 - User Personas
 - Competitive Analysis
 - Conversational Design
 
-Chatbot Development
+## Chatbot Development
 - Utilized the Botsociety conversational interface designer
   - Options for text or voice-based chatbots
   - Free educational plans with unlimited number of conversation paths
