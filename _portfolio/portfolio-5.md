@@ -4,6 +4,6 @@ excerpt: "Data visualizations created for the [30 Day Chart challenge](https://t
 collection: portfolio
 ---
 
-# #30DayChartChallenge
+## #30DayChartChallenge
 
 [Repository](https://github.com/tessaeagle/30daychartchallenge) of [30 Day Chart challenge](https://twitter.com/30daychartchall?lang=en) attempts
