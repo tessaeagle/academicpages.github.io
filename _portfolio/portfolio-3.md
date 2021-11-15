@@ -1,6 +1,6 @@
 ---
 title: "Interactive App Recommender"
-excerpt: "Interactive prototype designed to guide users through a set of questions in order to present them a small set of relevant mental health apps<br/><img src='/images/kaizen2.png'>"
+excerpt: "Interactive prototype designed in Figma to guide users through a set of questions in order to present them with a personalized set of recommended mental health apps<br><br><img src='/images/kaizen2.png'>"
 collection: portfolio
 ---
 
