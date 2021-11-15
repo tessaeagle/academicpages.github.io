@@ -1,6 +1,6 @@
 ---
 title: "Wave Function Collapse"
-excerpt: "Generation of computational art with the Wave Function Collapse algorithm<br/><img src='/images/wfc.png'>"
+excerpt: "Generation of computational art with the Wave Function Collapse algorithm through the Python port.<br><br><img src='/images/wfc.png'>"
 collection: portfolio
 ---
 
