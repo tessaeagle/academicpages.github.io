@@ -4,7 +4,7 @@ excerpt: Development of a chatbot system through Botsociety to recommend mental 
 collection: portfolio
 ---
 
-# Chatbot Development
+## Chatbot Development
 **Goal:** Develop a chatbot system to recommend mental health mobile apps and quickly reduce a large set of apps to a handful of personalized options
 
 ## App recommendations
