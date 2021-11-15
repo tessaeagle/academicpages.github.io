@@ -1,6 +1,6 @@
 ---
 title: "Chart Challenge"
-excerpt: "Data visualizations created for the [30 Day Chart challenge](https://twitter.com/30daychartchall?lang=en)<br/><img src='/images/cc.png'>"
+excerpt: "Data visualizations created for the [30 Day Chart challenge](https://twitter.com/30daychartchall?lang=en)<br><br><img src='/images/cc.png'>"
 collection: portfolio
 ---
 
