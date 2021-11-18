@@ -12,7 +12,7 @@ I am a human computer interaction researcher and third-year PhD student in <a hr
 
 My current projects cover topics such as: 
 * Social Media Community Support and Care
-* Accessibile Education and Social Media Practices
+* Accessible Education and Social Media Practices
 * Behavior Change Interventions
             
 I post my attempts to teach myself data visualization with R on <a href="https://github.com/tessaeagle/TidyTuesday">GitHub</a>. Feel free to email me at teagle [at] ucsc [dot] edu or read more about my experience: <a href="https://drive.google.com/file/d/1Vte5I-5ZVeCSynxbL5FxUTLD6b-SGJ2-/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
