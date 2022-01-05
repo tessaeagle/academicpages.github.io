@@ -54,9 +54,9 @@ Teaching
 
 Awards
 ======
-2022		UCSC Center for Innovations in Teaching and Learning Graduate Pedagogy Fellowship
-2021		Computational Media Departmental Fellowship
-2012-2016       Dean's Scholarship of Academic Excellence
-2013-2016	Dean's List
-2015		Reach Undergaduate Summer Internship Funding  
+2022		UCSC Center for Innovations in Teaching and Learning Graduate Pedagogy Fellowship<br>
+2021		Computational Media Departmental Fellowship<br>
+2012-2016       Dean's Scholarship of Academic Excellence<br>
+2013-2016	Dean's List<br>
+2015		Reach Undergaduate Summer Internship Funding <br>
   
