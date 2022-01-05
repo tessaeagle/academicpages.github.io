@@ -45,18 +45,18 @@ Quantitative
 
 Teaching
 ======
-3/2021-6/2021	Teaching Assistant, UC Santa Cruz, Game Design Experience<br>
-1/2021-3/2021	Teaching Assistant, UC Santa Cruz, Introduction to 3D Animation<br>
-9/2020-12/2020	Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
-1/2020-3/2020	Teaching Assistant, UC Santa Cruz, Computer-Mediated Communication<br>
-9/2019-12/2019	Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
-9/2015 - 5/2016	Teaching Assistant, University of Rochester, Web Design and Development
+3/2021-6/2021   Teaching Assistant, UC Santa Cruz, Game Design Experience<br>
+1/2021-3/2021   Teaching Assistant, UC Santa Cruz, Introduction to 3D Animation<br>
+9/2020-12/2020  Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
+1/2020-3/2020   Teaching Assistant, UC Santa Cruz, Computer-Mediated Communication<br>
+9/2019-12/2019  Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
+9/2015 - 5/2016 Teaching Assistant, University of Rochester, Web Design and Development
 
 Awards
 ======
-2022		UCSC Center for Innovations in Teaching and Learning Graduate Pedagogy Fellowship<br>
-2021		Computational Media Departmental Fellowship<br>
+2022            UCSC Center for Innovations in Teaching and Learning Graduate Pedagogy Fellowship<br>
+2021            Computational Media Departmental Fellowship<br>
 2012-2016       Dean's Scholarship of Academic Excellence<br>
-2013-2016	Dean's List<br>
-2015		Reach Undergaduate Summer Internship Funding <br>
+2013-2016       Dean's List<br>
+2015            Reach Undergaduate Summer Internship Funding <br>
   
