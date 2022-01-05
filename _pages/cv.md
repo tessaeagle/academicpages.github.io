@@ -51,4 +51,12 @@ Teaching
 1/2020-3/2020	Teaching Assistant, UC Santa Cruz, Computer-Mediated Communication<br>
 9/2019-12/2019	Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
 9/2015 - 5/2016	Teaching Assistant, University of Rochester, Web Design and Development
+
+Awards
+======
+2022		UCSC Center for Innovations in Teaching and Learning Graduate Pedagogy Fellowship
+2021		Computational Media Departmental Fellowship
+2012-2016       Dean's Scholarship of Academic Excellence
+2013-2016	Dean's List
+2015		Reach Undergaduate Summer Internship Funding  
   
