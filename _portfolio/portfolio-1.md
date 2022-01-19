@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization - TidyTuesday"
-excerpt: "Repository of my participation in R for Data Science's Tidy Tuesday community of practice. Each week, a new dataset is released for people to practice their data visualization skills and receive help and feedback from the R community. I primarily work with {ggplot2} for graphics.<br><br><img src='/images/tt.png'>"
+excerpt: "Repository of my participation in R for Data Science's Tidy Tuesday community of practice. Each week, a new dataset is released for people to practice their data visualization skills and receive help and feedback from the R community. I primarily work with {ggplot2} for graphics.<br><br><img src='/images/3_16_21.png'>"
 collection: portfolio
 ---
 
