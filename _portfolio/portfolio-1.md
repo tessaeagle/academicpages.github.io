@@ -13,6 +13,9 @@ collection: portfolio
 <img src='/images/circles.png'>
 
 
-[Repository](https://github.com/tessaeagle/TidyTuesday) of R4DS TidyTuesday attempts starting June 2020 in attempts to teach myself R data visualization and wrangling. 
+[Github Repository](https://github.com/tessaeagle/TidyTuesday) of R4DS TidyTuesday attempts starting June 2020
+
+[Github Repository](https://github.com/tessaeagle/30daychartchallenge) of my participation in the [30 Day Chart challenge](https://twitter.com/30daychartchall?lang=en)
+
 
 
