@@ -7,7 +7,7 @@ collection: portfolio
 ## TidyTuesday
 <img src='/images/game.png'>
 <img src='/images/super.png'>
-<img src='/images/9_8_ii.png'>
+<img src='/images/friends.png'>
 <img src='/images/map.png'>
 <img src='/images/phone.png'>
 <img src='/images/circles.png'>
