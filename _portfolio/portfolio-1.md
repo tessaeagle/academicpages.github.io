@@ -5,13 +5,12 @@ collection: portfolio
 ---
 
 ## TidyTuesday
-
-<img src='/images/friends.png'>
+<img src='/images/game.png'>
+<img src='/images/super.png'>
+<img src='/images/9_8_ii.png'>
 <img src='/images/map.png'>
 <img src='/images/phone.png'>
 <img src='/images/circles.png'>
-<img src='/images/super.png'>
-<img src='/images/game.png'>
 
 
 [Repository](https://github.com/tessaeagle/TidyTuesday) of R4DS TidyTuesday attempts starting June 2020 in attempts to teach myself R data visualization and wrangling. 
