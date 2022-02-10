@@ -12,11 +12,11 @@ In June 2020, I began participating in a weekly data visualization challenge aim
 [Github Repository](https://github.com/tessaeagle/30daychartchallenge) of my participation in the [30 Day Chart challenge](https://twitter.com/30daychartchall?lang=en)
 
 ## Selected Visualizations
-This plot utiized video game [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-16/readme.md) from Steam. I looked across an eight year period (2012-2020) to explore the games with the highest number of players online at the same time. My design for this plot was insired by Atari's Breakout game.
+This plot utilized video game [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-16/readme.md) from Steam. I looked across an eight year period (2012-2020) to explore the games with the highest number of players online at the same time. My design for this plot was insired by Atari's Breakout game.
 <img src='/images/game.png'><br>
 
 
-[Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-02/readme.md)
+The next visualization used [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-02/readme.md) from FiveThirtyEight looking at the content of commercials aired during the Superbowl. I wanted to try implementing a stream graph which is a type of stacked area chart, which is somewhat reminiscent of the shape of a football.
 <img src='/images/super.png'><br>
 
 
