@@ -31,7 +31,7 @@ In June 2020, I began participating in a weekly data visualization challenge aim
 [Data]()
 <img src='/images/phone.png'><br>
 
-This visualization was made as part of the 30 Day Chart Challenge. The prompt for this day was "experimental". I had been wanting to test out different implemntations of coord_polar to explore circular visualizations. 
+The following visualization was made as part of the 30 Day Chart Challenge. The prompt for this day was "experimental". I had been wanting to test out different implemntations of coord_polar to explore circular visualizations. 
 <img src='/images/circles.png'><br>
 
 [Data]()
