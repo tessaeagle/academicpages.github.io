@@ -12,29 +12,29 @@ In June 2020, I began participating in a weekly data visualization challenge aim
 [Github Repository](https://github.com/tessaeagle/30daychartchallenge) of my participation in the [30 Day Chart challenge](https://twitter.com/30daychartchall?lang=en)
 
 ## Selected Visualizations
-[Data]()
+[Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-16/readme.md)
 <img src='/images/game.png'><br>
 
 
-[Data]()
+[Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-02/readme.md)
 <img src='/images/super.png'><br>
 
 
-[Data]()
+[Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md)
 <img src='/images/friends.png'><br>
 
 
-[Data]()
+[Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-18/readme.md)
 <img src='/images/map.png'><br>
 
 
-[Data]()
+[Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-10/readme.md)
 <img src='/images/phone.png'><br>
 
 The following visualization was made as part of the 30 Day Chart Challenge. The prompt for this day was "experimental". I had been wanting to test out different implemntations of coord_polar to explore circular visualizations. 
 <img src='/images/circles.png'><br>
 
-[Data]()
+[Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-04/readme.md)
 <img src='/images/europeEnergy.png'>
 
 
