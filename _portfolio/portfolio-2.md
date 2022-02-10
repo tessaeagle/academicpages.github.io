@@ -4,7 +4,7 @@ excerpt: "Interactive prototype designed in Figma to guide users through a set o
 collection: portfolio
 ---
 ## Background
-As part of a larger project exploring how people search for apps and how to improve their experience, we designed two systems to provide users with personalized suggestions. To test another method of app recommendation (aside from the [chatbot project below](https://tessaeagle.github.io/portfolio/portfolio-2/)), we also prototyped a more traditional website interface that acts as an alternative to the traditional app stores. We implemented a small set of initial questions to filter apps for presentation to the user. Users are then able to see how well apps match their wants, filter based on features, and view a subset of relevant user reviews. 
+As part of a larger project exploring how people search for apps and how to improve their experience, we designed two systems to provide users with personalized suggestions. To test another method of app recommendation (aside from the [chatbot project below](https://tessaeagle.github.io/portfolio/portfolio-3/)), we also prototyped a more traditional website interface that acts as an alternative to the traditional app stores. We implemented a small set of initial questions to filter apps for presentation to the user. Users are then able to see how well apps match their wants, filter based on features, and view a subset of relevant user reviews. 
 
 **Project Goal:** creating a better search experience than the App/Play Stores
 
