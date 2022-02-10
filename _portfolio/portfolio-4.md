@@ -19,7 +19,7 @@ Our initial attempts led to straight constellations made up of 90 degree angles 
 
 <img src='/images/wfc5.png'><br>
 
-Below are example images we were able to generate using WFC. 
+Below are the finalized images we were able to generate using WFC. 
 
 <img src='/images/wfc.png'><br>
 
