@@ -15,8 +15,9 @@ We initially attempted to use [Isaac Karth's Python port](https://github.com/ika
 
 <img src='/images/wfc2.png'>
 
-Our initial attempts led to straight constellations made up of 90 degree angles. We adjusted our tileset to include diagonal lines and joints which allowed us to have constellations made up of combinations of 45 and 90 degree angles. 
+Our initial attempts led to straight constellations made up of 90 degree angles (see below figure). We adjusted our tileset to include diagonal lines and joints which allowed us to have constellations made up of combinations of 45 and 90 degree angles. 
 
+<img src='/images/wfc5.png'><br>
 
 Below are example images we were able to generate using WFC. 
 
@@ -25,5 +26,3 @@ Below are example images we were able to generate using WFC.
 <img src='/images/wfc3.png'><br>
 
 <img src='/images/wfc4.png'><br>
-
-<img src='/images/wfc5.png'>
