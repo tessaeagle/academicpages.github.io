@@ -24,7 +24,7 @@ R has a built in package for [data](https://github.com/rfordatascience/tidytuesd
 <img src='/images/friends.png'><br>
 
 
-[Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-18/readme.md)
+This was my first ever attempt at making a map in ggplot and it was a frustrating and time-intensive plot. I used [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-18/readme.md) on extinct plants and those at risk of instinction to visually explore where plants are under threat globally. I combined the map with a simple dot plot where I filtered for the top threats to endangered plants. <br>
 <img src='/images/map.png'><br>
 
 
