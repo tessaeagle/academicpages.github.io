@@ -18,6 +18,7 @@ In June 2020, I began participating in a weekly data visualization challenge aim
 <img src='/images/map.png'>
 <img src='/images/phone.png'>
 <img src='/images/circles.png'>
+<img src='/images/europeEnergy.png'>
 
 
 
