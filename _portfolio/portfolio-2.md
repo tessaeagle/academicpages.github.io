@@ -11,6 +11,8 @@ There are currently a small number of academic websites that conduct expert eval
 
 **Project Goal:** Develop a chatbot system to recommend mental health mobile apps and quickly reduce a large set of apps to a handful of personalized options
 
+<img src='/images/ab.png'>
+
 ## Chatbot Development
 The text-based chatbot prototype, AppBot, was designed using Botsociety, an interface designer for conversational systems. Botsociety provides quick high-fidelity modeling of conversation paths and has multiple integration options (e.g., Slack, Messenger, Google Assistant), including embedding directly into websites. Botsociety allows for integration with Google’s Dialogflow system, which would allow for an NLP-backed chatbot system. With this development environment, we have the option of creating a text-based agent or voice assistant which would make the final system more accessible and flexible for a varied user-base. The final prototype shown above depicts the deployed chatbot system.
 
