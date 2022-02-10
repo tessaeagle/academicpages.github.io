@@ -12,27 +12,30 @@ In June 2020, I began participating in a weekly data visualization challenge aim
 [Github Repository](https://github.com/tessaeagle/30daychartchallenge) of my participation in the [30 Day Chart challenge](https://twitter.com/30daychartchall?lang=en)
 
 ## Selected Visualizations
-
-<img src='/images/game.png'>
 [Data]()
+<img src='/images/game.png'><br>
 
-<img src='/images/super.png'>
+
 [Data]()
+<img src='/images/super.png'><br>
 
-<img src='/images/friends.png'>
+
 [Data]()
+<img src='/images/friends.png'><br>
 
-<img src='/images/map.png'>
+
 [Data]()
+<img src='/images/map.png'><br>
 
-<img src='/images/phone.png'>
+
 [Data]()
+<img src='/images/phone.png'><br>
 
-<img src='/images/circles.png'>
 This visualization was made as part of the 30 Day Chart Challenge. The prompt for this day was "experimental". I had been wanting to test out different implemntations of coord_polar to explore circular visualizations. 
+<img src='/images/circles.png'><br>
 
-<img src='/images/europeEnergy.png'>
 [Data]()
+<img src='/images/europeEnergy.png'>
 
 
 
