@@ -16,27 +16,23 @@ Using these coded reviews, we split our dataset of 10,000 reviews into training,
 
 ## Algorithms Implemented
 Using the [Scikit learn](https://scikit-learn.org/) Python library ( a free machine learning library) we implemented the following supervised learning algorithms:
-* Naive Bayes applying Bayes' Theorem, which predicts the probability of event occurence based on prior knowledge. This algorithm assumes independence among predictive features and that words in a sentence are independent of each other. It has a high success rate in text classification.
+* Naive Bayes applies Bayes' Theorem, which predicts the probability of event occurence based on prior knowledge. This algorithm assumes independence among predictive features and that words in a sentence are independent of each other. It has a high success rate in text classification.
 
 * Support Vector Machines are another widely used model for data classification and works well even with limited data (our set of 10k reviews is cnsidered on the smaller side). This model plots each item then finds the decision boundary to separate the two classes. Ideally, we want this separation to be as wide as possible for better accuracy.
 
 * Decisions Trees are the third predicitve model we tested. Decision tress model decisions in a tree-like structure (hence the name). At decision points, conditions split the tree into branches for classification. The branches represent observations about a point or feature and the leaves of the tree represent target values. The set of features are considered against each other to test the value of the decision split points. 
 
 ## Results
+We implemented each of the three models and tested the following data features: unigrams, bigrams, trigrams, word counts, parts of speech, sentiment, review length, rating, feature selection, normalization, and binning. The results are shown in the below table. Naive Bayes produced the lowest scores on accuracy and precision, but it had the highest recall. This means Naive Bayes categorized reviews containg predation well. Decision Trees showed high precision, but low recall. Support Vector Machines were similar to Decision Trees, but slightly better. 
+
+
 | Algorithm  | Accuracy | Precision  | Recall | F-Score |
 | ------------- | ------------- | ------------- | ------------- |------------- | 
 | Naive Bayes  | 89  | 65  | 92  | 76  |
 | Support Vector Machines  | 93  | 85  | 76  | 80  |
 | Decision Trees  | 91 | 77  | 75  | 76  |
 
-* Naive Bayes
-  * Lowest accuracy and precision
-  * High recall - categorized predatory reviews well
-* Support Vector Machines
-  * Similar to decision trees, but better
-  * Worse recall
-* Decision Trees
-  * High precision, low recall
+
 
 
 
