@@ -11,18 +11,19 @@ Wave Function Collapse is an algorithm that takes an input (bitmap or individual
 
 ## Project Implementation
 
-We initially attempted to use [Isaac Karth's Python port](https://github.com/ikarth/wfc_2019f) of WFC, but ultimately used the initial C# simple tiles implementation. This implementation takes in a set of tiles and adjency rules indicatting how and where tiles can be placed. Utilizing the Wave Function Collapse algorithm with our own tileset to generate computational art. We created a set of 77 tiles in Photoshop to attempt to generate randomized constellations using WFC. Each tile contained a combination of joints (circles) to represent stars, and arms (lines) to represent the drawing of constellations. Joints could connect to arms or blank tiles, while arms could connect to joints or other arms but not blank tiles as each constellation end had to be a star.
+We initially attempted to use [Isaac Karth's Python port](https://github.com/ikarth/wfc_2019f) of WFC, but ultimately used the initial C# simple tiles implementation. This implementation takes in a set of tiles and adjency rules indicatting how and where tiles can be placed. Utilizing the Wave Function Collapse algorithm with our own tileset to generate computational art. We created a set of 77 tiles in Photoshop (see below) to attempt to generate randomized constellations using WFC. Each tile contained a combination of joints (circles) to represent stars, and arms (lines) to represent the drawing of constellations. Joints could connect to arms or blank tiles, while arms could connect to joints or other arms but not blank tiles as each constellation end had to be a star.
+
+<img src='/images/wfc2.png'>
 
 Our initial attempts led to straight constellations made up of 90 degree angles. We adjusted our tileset to include diagonal lines and joints which allowed us to have constellations made up of combinations of 45 and 90 degree angles. 
 
 
 Below are example images we were able to generate using WFC. 
-<img src='/images/wfc2.png'>
 
-<img src='/images/wfc.png'>
+<img src='/images/wfc.png'><br>
 
-<img src='/images/wfc3.png'>
+<img src='/images/wfc3.png'><br>
 
-<img src='/images/wfc4.png'>
+<img src='/images/wfc4.png'><br>
 
 <img src='/images/wfc5.png'>
