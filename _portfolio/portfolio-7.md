@@ -22,7 +22,7 @@ Using a GPT-2 Model we learned on tweets from Game Twitter Personalities. We imp
 
 ### Creating a Twitterbot
 <img src='/images/tracery.png'>
-We used Tracery to create a Twitterbot that was set to tweet every six hours. Tracery is a generative grammar that we used to create rules for our human-generated tweets. The origin component contains a rule and denotes how sentences start and their formatting. Rules contain symbols, from which a set of text used for generation is selected. We then tweeted using Tracery rules and human-generated tweets as well as GPT-2-generated tweets. Certain rules provided text from the GPT-2 tweets. We attempted to make our final Twitter profile appear more like a real gamer profile than a bot.
-<br>
+We used Tracery to create a Twitterbot that was set to tweet every six hours. Tracery is a generative grammar that we used to create rules for our human-generated tweets. The origin component contains a rule and denotes how sentences start and their formatting. Rules contain symbols, from which a set of text used for generation is selected. We then tweeted using Tracery rules and human-generated tweets as well as GPT-2-generated tweets. Certain rules provided text from the GPT-2 tweets. We attempted to make our final Twitter profile appear more like a real gamer profile than a bot. <br>
+
 <img src='/images/magik.png'>
 
