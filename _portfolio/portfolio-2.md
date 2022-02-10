@@ -18,6 +18,7 @@ The text-based chatbot prototype, AppBot, was designed using Botsociety, an inte
 
 Based upon our pilot interviews and app store analysis, we decided on two models: Need-based and feature-based. We developed two chatbots in Botsociety following the need-based and feature-based model (shown above). The feature-based model offered more flexibility and relevance to a broader set of users so we decided on testing this one with out pilot users. The final prototype shown below depicts the deployed chatbot system and an example of the recommended apps.
 
+**Methods utilized:** Competitive Analysis, Conversational Design, Decision Trees, A/B Testing
 
 <img src='/images/chatbotConvo.png'>
 
