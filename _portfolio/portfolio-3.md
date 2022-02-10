@@ -8,7 +8,7 @@ As part of a larger project exploring how people search for apps and how to impr
 
 **Project Goal:** creating a better search experience than the App/Play Stores
 
-<img src='/images/kaizen.png'><br>
+<img src='/images/kaizenSearch.png'><br>
 Figure 1: A frame from the initial interactive search where user preferences are elicited<br>
 
 ## Prototype Development
