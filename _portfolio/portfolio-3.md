@@ -8,6 +8,9 @@ As part of a larger project exploring how people search for apps and how to impr
 
 **Project Goal:** creating a better search experience than the App/Play Stores
 
+<img src='/images/kaizen.png'><br>
+Figure 1: A frame from the initial interactive search where user preferences are elicited<br>
+
 ## Prototype Development
 * Designed based off of competitive analyses
 * Prototyped in Figma - interface design tool
@@ -23,12 +26,7 @@ Our system, Kaizen, was designed in Figma, a free, collaborative interface desig
 
 **Methods and tools used:** Wireframing, User Personas, Paper Prototyping, Figma
 
-<img src='/images/kaizen.png'><br>
-Figure 1: A frame from the initial interactive search where user preferences are elicited<br>
-
-<img src='/images/kaizen2.png'>
-
-<img src='/images/kaizen3.png'>
+<img src='/images/appDisplayKaizen.png'>
 
 <img src='/images/kaizen4.png'>
 
