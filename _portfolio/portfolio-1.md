@@ -28,7 +28,7 @@ This was my first ever attempt at making a map in ggplot and it was a frustratin
 <img src='/images/map.png'><br>
 
 
-[Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-10/readme.md)
+For this chart, I attempted a waterfall bar plot, where I mapped two variables against each other. The [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-10/readme.md) looked at phone use over time broken down by mobile and landline subscriptions. As you can see, mobile use is increasing over time compared to a decline in landlines. <br>
 <img src='/images/phone.png'><br>
 
 The following visualization was made as part of the 30 Day Chart Challenge. The prompt for this day was "experimental". I had been wanting to test out different implemntations of coord_polar to explore circular visualizations. 
