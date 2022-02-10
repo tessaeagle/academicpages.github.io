@@ -33,6 +33,12 @@ Used the Scikit learn Python library (free machine learning library) to implemen
   * Conditions split tree into branches
 
 ## Results
+| Algorithm  | Accuracy | Precision  | Recall | F-Score |
+| ------------- | ------------- | ------------- | ------------- |------------- | 
+| Naive Bayes  | 89  | 65  | 92  | 76  |
+| Support Vector Machines  | 93  | 85  | 76  | 80  |
+| Decision Trees  | 91 | 77  | 75  | 76  |
+
 * Naive Bayes
   * Lowest accuracy and precision
   * High recall - categorized predatory reviews well
