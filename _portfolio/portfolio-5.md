@@ -6,11 +6,13 @@ collection: portfolio
 ---
 
 ## Background
-This project stemmed from a prior study, where we conducted a qualitative thematic analysis of user reviews left on mental health apps on the Google Play Store. Through development of a codebook with five categories and nine subcodes, we analyzed and coded reviews describing predatory behaviors and features present in mobile apps for mental health. We intiially noted that ~6% of reviews contained descriptions of predatory monetary practices implemented by app developers.
+This project stemmed from a prior study, where we conducted a qualitative thematic analysis of user reviews left on mental health apps on the Google Play Store. Through development of a codebook with five categories and nine subcodes (see Figure below), we analyzed and coded reviews describing predatory behaviors and features present in mobile apps for mental health. We intiially noted that ~6% of reviews contained descriptions of predatory monetary practices implemented by app developers.
 
 Using these coded reviews, we split our dataset of 10,000 reviews into training, tuning, and test sets and used various machine learning techniques (Naive Bayes, Support Vector Machines, and Decision Trees) to attempt to automatically classify predatory reviews. Initially, we focused on binary classification (yes/no if the reviews describes predation), and will move on to more granular classification using the subcodes in the future.
 
 **Project Goal:** Can we use machine learning to identify predatory app behavior described in user reviews of mental health apps?
+
+<img src='/images/predation.png'>
 
 ## Algorithms Implemented
 Using the [Scikit learn](https://scikit-learn.org/) Python library ( a free machine learning library) we implemented the following supervised learning algorithms:
