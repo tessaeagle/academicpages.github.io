@@ -4,7 +4,8 @@ excerpt: "Development of a Twitterbot using the [Tracery](tracery.io) text gener
 collection: portfolio
 ---
 
-## Problem
+## Overview
+This project uses GPT-2, a , 
 Can we train a GPT-2 model to learn gamer slang (gamer girls) and create a twitter bot with it. Can GPT-2 models be able to parse out the nuances of cultural differences, and not just racial bias
 
 ### Goals
@@ -18,6 +19,7 @@ Can we train a GPT-2 model to learn gamer slang (gamer girls) and create a twitt
 - Trained a recurrent neural network (RNN) classifier with 800,000 labeled tweets
 - Used this model to separate positive and negative tweets
 
+<img src='/images/tracery.png'>
 
 ## Generating Tweets
 ### Using a GPT-2 Model we:
@@ -27,6 +29,8 @@ Can we train a GPT-2 model to learn gamer slang (gamer girls) and create a twitt
 - Used a 124M “small” model
 - Carried out 2000 steps, temperature of .7
 - Generated a .txt file of 1000 tweets at a time
+
+<img src='/images/gpt.png'>
 
 ### Creating a Twitterbot
 - Using Tracery, we were able to create a bot to tweet out our generated tweets
