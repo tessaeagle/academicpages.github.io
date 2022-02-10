@@ -34,7 +34,7 @@ For this chart, I attempted a waterfall bar plot, where I mapped two variables a
 The following visualization was made as part of the 30 Day Chart Challenge. The prompt for this day was "experimental". I had been wanting to test out different implemntations of coord_polar to explore circular visualizations of line plots. <br>
 <img src='/images/circles.png'><br>
 
-Using [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-04/readme.md) on European country's sources of power. I created a stacked bar plot that shows the distribution of power sources broken down by country. I faceted the plot to show the breakdown by yer from 2017-2019. The goal of this was to show the changes in utilization of power sources over time. <br>
+Using [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-04/readme.md) on European country's sources of power. I created a stacked bar plot that shows the distribution of power sources broken down by country. I faceted the plot to show the breakdown by yer from 2016-2018. The goal of this was to show the changes in utilization of power sources over time. <br>
 <img src='/images/europeEnergy.png'>
 
 
