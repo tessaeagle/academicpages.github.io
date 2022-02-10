@@ -4,30 +4,18 @@ excerpt: "Development of a Twitterbot using the [Tracery](tracery.io) text gener
 collection: portfolio
 ---
 
-## Overview
-This project uses GPT-2, an open-source language learning model, to learn on tweets downloaded from two popular gamer Twitter accounts.  
+## Background
+This project uses GPT-2, an open-source language learning model, to learn on tweets downloaded from popular gamer Twitter accounts. We download and analyzed sentiment expression in tweets by popular gamers and within popular gaming hashtags. These tweets were analyzed for valence, saving positive examples. We then utilize [Tracery](http://tracery.io/), a tool built by Kate Compton to generate text using a generative grammar/JSON. Tracery expands text based on user-inputted nodes.
 
-**Project Goal:** 
-* Download and analyze sentiment expression in tweets by popular gamers and within popular gaming hashtags 
-  * Analyze for valence, saving positive examples
-* Train a GPT-2 model to learn gamer slang (gamer girls) and create a twitter bot with it combining with tweets generated through the Tracery grammer. 
+**Project Goal:** Train a GPT-2 model to learn gamer slang (gamer girls) and create a twitter bot with it combining with tweets generated through the Tracery grammer. 
 
 ### Sentiment Analysis
-- Downloaded tweets from prominent gamer twitter accounts (Ninja, Pokimane, LilyPichu)
-- Analyzed tweets for sentiment
-- Trained a recurrent neural network (RNN) classifier with 800,000 labeled tweets
-- Used this model to separate positive and negative tweets
+We downloaded tweets from three prominent gamer twitter accounts (Ninja, Pokimane, and LilyPichu). Using sentiment analysis, we analyzed tweets for emotional valence. We trained a recurrent neural network (RNN) classifier with 800,000 labeled tweets and used this model to separate positive and negative tweets. 
 
 <img src='/images/tracery.png'>
 
-## Generating Tweets
-### Using a GPT-2 Model we:
-- Learned on tweets from Game Twitter Personalities
-- Used existing GPT-2 Google Colab model
-- Input a single-column csv
-- Used a 124M “small” model
-- Carried out 2000 steps, temperature of .7
-- Generated a .txt file of 1000 tweets at a time
+### Generating Tweets
+Using a GPT-2 Model we learned on tweets from Game Twitter Personalities. We implemented our data within a pre-existing GPT-2 Google Colab model. First, we input a single-column csv containing our tweet data. We used a 124M “small” model and carried out 2000 steps, testing different temperatures and using .7 in our final model. This then output a .txt file containing 1000 computer-generated tweets at a time.
 
 <img src='/images/gpt.png'>
 
