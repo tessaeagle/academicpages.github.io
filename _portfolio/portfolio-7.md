@@ -15,7 +15,7 @@ We downloaded tweets from three prominent gamer twitter accounts (Ninja, Pokiman
 <img src='/images/tracery.png'>
 
 ### Generating Tweets
-Using a GPT-2 Model we learned on tweets from Game Twitter Personalities. We implemented our data within a pre-existing GPT-2 Google Colab model. First, we input a single-column csv containing our tweet data. We used a 124M “small” model and carried out 2000 steps, testing different temperatures and using .7 in our final model. This then output a .txt file containing 1000 computer-generated tweets at a time.
+Using a GPT-2 Model we learned on tweets from Game Twitter Personalities. We implemented our data within a pre-existing GPT-2 Google Colab model. First, we input a single-column csv containing our tweet data. We used a 124M “small” model and carried out 2000 steps, testing different temperatures and using .7 in our final model. The temperature controls for the level of randomness present in the output. Temperatures closer to 1 than 0 choose words with a lesser probability of occuring at that point (e.g., "Do you want to go paint a cheetah?": vs. "Do you want to go get ice cream?". This then output a .txt file containing 1000 computer-generated tweets at a time.
 
 <img src='/images/gpt.png'>
 
