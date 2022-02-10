@@ -34,7 +34,7 @@ We implemented each of the three models and tested the following data features: 
 
 
 ### Definitions 
-(see: [here](https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/)
+(see: [here)](https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/)
 * Accuracy: The ratio of number of correctly predicted observations to the total number of observations
 * Precision: The ratio of correctly predicted positive observations to the total predicted positive observations. High precision = low false positive rate
 * Reccall: The ratio of correctly predicted positive observations to the all observations in the actual class
