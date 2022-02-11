@@ -6,8 +6,12 @@ collection: portfolio
 
 ## Background
 
-**Project Goal:** 
+**Project Goal:** Crowdsource recommendations from neurodiverse social media users to create an online resource for professors and TAs to make courses more accessible for all students
 
 ### 
 
-<object data="../files/Classroom_Accessibility_Guidelines_Living.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+**Methods Used:** Digital Ethnography, Crowdsourcing, Review of Digital Accessibility Guidelines, Application of Universal Design for Learning
+
+
+[here](https://tessaeagle.github.io/files/Classroom_Accessibility_Guidelines_Living.pdf)
