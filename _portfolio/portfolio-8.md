@@ -14,4 +14,4 @@ collection: portfolio
 **Methods Used:** Digital Ethnography, Crowdsourcing, Review of Digital Accessibility Guidelines, Application of Universal Design for Learning
 
 
-[here](https://tessaeagle.github.io/files/Classroom_Accessibility_Guidelines_Living.pdf)
+You can see the full workbook [here](https://tessaeagle.github.io/files/Classroom_Accessibility_Guidelines_Living.pdf).
