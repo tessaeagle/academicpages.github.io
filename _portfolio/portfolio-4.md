@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Background
-Wave Function Collapse is an algorithm that takes an input (bitmap or individual tiles) and generates a similar output. (see [here](https://github.com/mxgmn/WaveFunctionCollapse)). As part of a class project in CMPM202, my two teammates and I considered themes we wanted to explore through generative art. We considered trying a Where's Waldo style tileset, but ultimately decided to attempt to generate unique sets of star constellations. 
+Wave Function Collapse is an algorithm that takes an input (bitmap or individual tiles) and generates a similar output (see [here](https://github.com/mxgmn/WaveFunctionCollapse)). As part of a class project in CMPM202, my two teammates and I considered themes we wanted to explore through generative art. We considered trying a Where's Waldo style tileset, but ultimately decided to attempt to generate unique sets of star constellations. 
 
 **Project Goal:** Use WFC and our own tiles to generate unique sets of star constellations
 
