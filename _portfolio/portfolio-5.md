@@ -15,7 +15,7 @@ Using these coded reviews, we split our dataset of 10,000 reviews into training,
 <img src='/images/predation.png'>
 
 ## Algorithms Implemented
-Using the [Scikit learn](https://scikit-learn.org/) Python library ( a free machine learning library) we implemented the following supervised learning algorithms:
+Using the [Scikit learn](https://scikit-learn.org/) Python library (a free machine learning library) we implemented the following supervised learning algorithms:
 * Naive Bayes applies Bayes' Theorem, which predicts the probability of event occurence based on prior knowledge. This algorithm assumes independence among predictive features and that words in a sentence are independent of each other. It has a high success rate in text classification.
 
 * Support Vector Machines are another widely used model for data classification and works well even with limited data (our set of 10k reviews is cnsidered on the smaller side). This model plots each item then finds the decision boundary to separate the two classes. Ideally, we want this separation to be as wide as possible for better accuracy.
