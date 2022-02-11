@@ -1,6 +1,6 @@
 ---
 title: "Classroom Accessibility Workbook"
-excerpt: "<br><br><img src='/images/gpt.png'>"
+excerpt: "<br><br><img src='/images/udl.jpg'>"
 collection: portfolio
 ---
 
