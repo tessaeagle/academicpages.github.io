@@ -10,4 +10,4 @@ collection: portfolio
 
 ### 
 
-<object data="../files/Classroom Accessibility Guidelines_Living Document.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../files/Classroom_Accessibility_Guidelines_Living.pdf" width="1000" height="1000" type='application/pdf'></object>
