@@ -12,17 +12,18 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-## JOURNAL PAPERS
+## Conference Papers
 **Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps. Conference on Computer Supported Cooperative Work and Social Computing. 2022 (Accepted)
 
+## Journal Papers
 **Eagle T.**, Blau C., Bales S., Desai N., Li V., Whittaker S. “I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression". ACM Transactions on Interactive Intelligent Systems. 2021 (Accepted)
 
 **Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis. [Multiple sclerosis and related disorders](https://www.msard-journal.com/article/S2211-0348(17)30248-1/fulltext). 2017 Nov 1;18:196-201. DOI: https://doi.org/10.1016/j.msard.2017.10.002 [(Full Text)](http://tessaeagle.github.io/files/MSARD.pdf)
 
-## WORKSHOP PAPERS
+## Workshop Papers
 **Eagle, T.** and Ringland K.E. Social Media-Based Community Support for People with Differing ADHD Diagnoses. Workshop: The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support. CSCW 2021 [(Paper)](https://alexpapster.wixsite.com/futureofohcs/projects-3)
 
-## ACCEPTED ABSTRACTS AND PRESENTATIONS
+## Accepted Abstracts and Presentations
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses., NYC Neuromodulation 2020 Online Conference, P27, [(Full Text and Poster)](https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html)
 
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., Interoception: A Window to Psychopathological Disorders, American Psychological Association, Chicago, IL, August 2019.
