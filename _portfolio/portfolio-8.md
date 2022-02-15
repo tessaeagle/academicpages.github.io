@@ -1,6 +1,6 @@
 ---
 title: "Classroom Accessibility Workbook"
-excerpt: This project uses crowdsourced data from neurodivergent Twitter users to examine changes that could be made to higher education courses to increase accessibility. By combining user-generated suggestions with Universal Design for Learning and guidelines from accessibility orgnaizations, I develop a workbook for course staff to use as a resource to build accommodations into their class design."<br><br><img src='/images/udl.jpg'>"
+excerpt: "This project uses crowdsourced data from neurodivergent Twitter users to examine changes that could be made to higher education courses to increase accessibility. By combining user-generated suggestions with Universal Design for Learning and guidelines from accessibility orgnaizations, I develop a workbook for course staff to use as a resource to build accommodations into their class design.<br><br><img src='/images/udl.jpg'>"
 collection: portfolio
 ---
 
