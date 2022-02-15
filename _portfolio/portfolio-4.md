@@ -1,6 +1,6 @@
 ---
 title: "Wave Function Collapse Generated Constellations"
-excerpt: "Using the Wave Function Collapse algorithm, we explore the generation of computational constellation art using individual tiles we designed in Photoshop.<br><br><img src='/images/wfc.png'>"
+excerpt: "Using the Wave Function Collapse algorithm, we explore the generation of computational constellation art using 77 individual tiles designed in Photoshop.<br><br><img src='/images/wfc.png'>"
 collection: portfolio
 ---
 
