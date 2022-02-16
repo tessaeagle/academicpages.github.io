@@ -8,3 +8,6 @@ collection: portfolio
 xx
 
 **Project Goal:** 
+
+## Coding the App
+<img src='/images/shinyApp.png'>
