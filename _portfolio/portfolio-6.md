@@ -8,6 +8,7 @@ collection: portfolio
 xx
 
 **Project Goal:** 
+**Project Year:** 2022
 
 ## Coding the App
 <img src='/images/shinyApp.png'>
