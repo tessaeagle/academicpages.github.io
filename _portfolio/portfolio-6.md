@@ -7,7 +7,7 @@ collection: portfolio
 ## Background
 xx
 
-**Project Goal:** 
+**Project Goal:** <br>
 **Project Year:** 2022
 
 ## Coding the App
