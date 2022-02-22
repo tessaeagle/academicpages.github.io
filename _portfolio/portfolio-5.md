@@ -11,6 +11,7 @@ This project stemmed from a prior study, where we conducted a qualitative themat
 Using these coded reviews, we split our dataset of 10,000 reviews into training, tuning, and test sets and used various machine learning techniques (Naive Bayes, Support Vector Machines, and Decision Trees) to attempt to automatically classify predatory reviews. Initially, we focused on binary classification (yes/no if the reviews describes predation), and will move on to more granular classification using the subcodes in the future.
 
 **Project Goal:** Can we use machine learning to identify predatory app behavior described in user reviews of mental health apps?
+**Project Year:** 2021 - present
 
 <img src='/images/predation.png'>
 
