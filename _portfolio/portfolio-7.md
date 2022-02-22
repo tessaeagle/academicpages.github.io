@@ -8,6 +8,7 @@ collection: portfolio
 This project uses GPT-2, an open-source language learning model, to learn on tweets downloaded from popular gamer Twitter accounts. We download and analyzed sentiment expression in tweets by popular gamers and within popular gaming hashtags. These tweets were analyzed for valence, saving positive examples. We then utilize [Tracery](http://tracery.io/), a tool built by Kate Compton to generate text using a generative grammar/JSON. Tracery expands text based on user-inputted nodes.
 
 **Project Goal:** Train a GPT-2 model to learn gamer slang (gamer girls) and create a twitter bot with it combining with tweets generated through the Tracery grammer. 
+**Project Year:** Winter 2020
 
 ### Sentiment Analysis
 We downloaded tweets from three prominent gamer twitter accounts (Ninja, Pokimane, and LilyPichu). Using sentiment analysis, we analyzed tweets for emotional valence. We trained a recurrent neural network (RNN) classifier with 800,000 labeled tweets and used this model to separate positive and negative tweets. 
