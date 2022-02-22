@@ -4,4 +4,6 @@ excerpt: "Creation of a Twitterbot using the [Tracery](https://cheapbotsdonequic
 collection: portfolio
 ---
 
+**Project Year:** Fall 2020
+
 [@tinyworkoutbot Twitter account](https://twitter.com/tinyworkoutbot)
