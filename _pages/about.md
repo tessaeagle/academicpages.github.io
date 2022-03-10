@@ -15,4 +15,4 @@ My current projects cover topics such as:
 * Accessible Education and Social Media Practices
 * Behavior Change Interventions
             
-I post my attempts to teach myself data visualization with R on <a href="https://github.com/tessaeagle/TidyTuesday">GitHub</a>. Feel free to email me at teagle [at] ucsc [dot] edu or read more about my experience: <a href="https://drive.google.com/file/d/1T57TW6hM4s8fimkYpNNfpzuC_bSVvYA3/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
+I post my attempts to teach myself data visualization with R on <a href="https://github.com/tessaeagle/TidyTuesday">GitHub</a>. Feel free to email me at teagle [at] ucsc [dot] edu or read more about my experience: <a href="https://drive.google.com/file/d/1kobCBk_yHpN6TkSHIMzDJOk5YD_Sft7U/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
