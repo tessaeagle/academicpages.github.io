@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 ## Conference Papers
-Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022
+Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022. DOI: https://doi.org/10.1145/3491102.3517442
 
 **Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022
 
