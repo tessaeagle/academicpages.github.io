@@ -19,6 +19,7 @@ Education
 
 Research experience
 ======
+* 2022 - present: *User Experience Researcher - Contract*, Multinarity
 * 2019 - present: *Graduate Student Researcher*, UC Santa Cruz
 * 2018-2019: *Research Assistant*, Brigham and Women’s Hospital	
 	* Center for Surgery and Public Health
