@@ -46,7 +46,7 @@ Quantitative
 
 Teaching
 ======
-9/2022-12/2022  Teaching Assistant, Introduction to Design Methods in HCI
+9/2022-12/2022  Teaching Assistant, Introduction to Design Methods in HCI<br>
 3/2021-6/2021   Teaching Assistant, UC Santa Cruz, Game Design Experience<br>
 1/2021-3/2021   Teaching Assistant, UC Santa Cruz, Introduction to 3D Animation<br>
 9/2020-12/2020  Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
@@ -54,7 +54,7 @@ Teaching
 9/2019-12/2019  Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
 9/2015 - 5/2016 Teaching Assistant, University of Rochester, Web Design and Development
 
-Awards
+Awards and Fellowships
 ======
 2022            UCSC Center for Innovations in Teaching and Learning Graduate Pedagogy Fellowship<br>
 2021            Computational Media Departmental Fellowship<br>
