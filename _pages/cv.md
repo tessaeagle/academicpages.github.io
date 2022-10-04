@@ -46,6 +46,7 @@ Quantitative
 
 Teaching
 ======
+9/2022-12/2022  Teaching Assistant, Introduction to Design Methods in HCI
 3/2021-6/2021   Teaching Assistant, UC Santa Cruz, Game Design Experience<br>
 1/2021-3/2021   Teaching Assistant, UC Santa Cruz, Introduction to 3D Animation<br>
 9/2020-12/2020  Teaching Assistant, UC Santa Cruz, Introduction to 3D Modeling<br>
