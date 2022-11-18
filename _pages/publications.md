@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 ## Conference Papers
-**Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022
+**Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022. [https://dl.acm.org/doi/10.1145/3555155](Paper) [https://www.youtube.com/watch?v=q347mu3n8ok&ab_channel=ACMSIGCHI](Conference Presentation)
 
 Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022. DOI: [https://doi.org/10.1145/3491102.3517442](https://doi.org/10.1145/3491102.3517442)
 
