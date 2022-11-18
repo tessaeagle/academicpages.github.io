@@ -13,12 +13,12 @@ author_profile: true
 
 {% include base_path %}
 ## Conference Papers
-**Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022. [https://dl.acm.org/doi/10.1145/3555155](Paper) [https://www.youtube.com/watch?v=q347mu3n8ok&ab_channel=ACMSIGCHI](Conference Presentation)
+**Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Full Paper)]([Paper](https://dl.acm.org/doi/10.1145/3555155)) [Conference Presentation](https://www.youtube.com/watch?v=q347mu3n8ok&ab_channel=ACMSIGCHI)
 
-Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022. DOI: [https://doi.org/10.1145/3491102.3517442](https://doi.org/10.1145/3491102.3517442)
+Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022. DOI: [(Full Paper)](https://doi.org/10.1145/3491102.3517442)
 
 ## Journal Papers
-**Eagle T.**, Blau C., Bales S., Desai N., Li V., Whittaker S. *“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression"*. ACM Transactions on Interactive Intelligent Systems. 2022. [https://dl.acm.org/doi/10.1145/3488057](https://dl.acm.org/doi/10.1145/3488057)
+**Eagle T.**, Blau C., Bales S., Desai N., Li V., Whittaker S. *“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression"*. ACM Transactions on Interactive Intelligent Systems. 2022. [(Full Paper)](https://dl.acm.org/doi/10.1145/3488057)
 
 **Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017. DOI: [https://doi.org/10.1016/j.msard.2017.10.002](https://doi.org/10.1016/j.msard.2017.10.002). [(Full Text)](http://tessaeagle.github.io/files/MSARD.pdf)
 
@@ -26,6 +26,9 @@ Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARM
 **Eagle, T.**, Baltaxe-Admony, L.B., and Ringland K.E. (written collectively). *Creating a Lab with a Culture of Care*. Workshop: Dreaming Disability Justice in HCI. CHI 2022. [(Medium Post)](https://medium.com/misfitlabs/creating-a-lab-with-a-culture-of-care-2b19bb0b2a22)
 
 **Eagle, T.** and Ringland K.E. *Social Media-Based Community Support for People with Differing ADHD Diagnoses*. Workshop: The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support. CSCW 2021 [(Paper)](https://alexpapster.wixsite.com/futureofohcs/projects-3)
+
+## Invited Doctoral Consortia
+
 
 ## Accepted Abstracts and Presentations
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., *Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses*. NYC Neuromodulation 2020 Online Conference, P27, [(Full Text and Poster)](https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html)
