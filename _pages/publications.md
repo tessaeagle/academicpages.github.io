@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 ## Conference Papers
-**Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Full Paper)]([Paper](https://dl.acm.org/doi/10.1145/3555155)) [Conference Presentation](https://www.youtube.com/watch?v=q347mu3n8ok&ab_channel=ACMSIGCHI)
+**Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Full Paper)]([Paper](https://dl.acm.org/doi/10.1145/3555155)) [(Conference Presentation)](https://www.youtube.com/watch?v=q347mu3n8ok&ab_channel=ACMSIGCHI)
 
 Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022. DOI: [(Full Paper)](https://doi.org/10.1145/3491102.3517442)
 
@@ -28,7 +28,9 @@ Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARM
 **Eagle, T.** and Ringland K.E. *Social Media-Based Community Support for People with Differing ADHD Diagnoses*. Workshop: The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support. CSCW 2021 [(Paper)](https://alexpapster.wixsite.com/futureofohcs/projects-3)
 
 ## Invited Doctoral Consortia
+Eagle, T. "Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities." Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3500868.3561402)
 
+Eagle, T. "Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities." The 24th International ACM SIGACCESS Conference on Computers and Accessibility. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3517428.3550409)
 
 ## Accepted Abstracts and Presentations
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., *Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses*. NYC Neuromodulation 2020 Online Conference, P27, [(Full Text and Poster)](https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html)
