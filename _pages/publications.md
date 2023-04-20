@@ -33,6 +33,8 @@ Eagle, T. "Exploring Collective Medical Knowledge and Tensions in Online ADHD Co
 Eagle, T. "Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities." The 24th International ACM SIGACCESS Conference on Computers and Accessibility. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3517428.3550409)
 
 ## Accepted Abstracts and Presentations
+**Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "[CHI2023] Decisions on paper 42 for CHI2023”: A Playful Twist on the Peer Review Process and Methodological Gaslighting". CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2023. [(Paper)](https://dl.acm.org/doi/10.1145/3544549.3582745)
+
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., *Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses*. NYC Neuromodulation 2020 Online Conference, P27, [(Full Text and Poster)](https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html)
 
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., *Interoception: A Window to Psychopathological Disorders*. American Psychological Association, Chicago, IL, August 2019.
