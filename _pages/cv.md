@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D in Computational Media, University of California, Santa Cruz, 2024 (expected)**
+  * Proposed Dissertation: “Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities”
 * **M.S. in Computational Media, University of California, Santa Cruz, 2021**
   * Thesis: “Like Talking To A Person”: User-perceived Benefits Of Mental Health And Wellness Mobile Apps
 * **B.S. in Brain and Cognitive Science, University of Rochester, 2016**
