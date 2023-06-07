@@ -23,19 +23,19 @@ Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARM
 **Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017. [(Journal Link)](https://doi.org/10.1016/j.msard.2017.10.002) [(Full Text)](http://tessaeagle.github.io/files/MSARD.pdf)
 
 ## Workshop Papers
-Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. Sharing is Caring: Community-Focused Research Communication. Workshop: Beyond Academic Publication: Alternative Outcomes of HCI Research. ACM Designing Interactive Systems. 2023. [https://www.minyoo.xyz/beyond-academic-publication](https://www.minyoo.xyz/beyond-academic-publication)
+Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: Community-Focused Research Communication*. Workshop: Beyond Academic Publication: Alternative Outcomes of HCI Research. ACM Designing Interactive Systems. 2023. [https://www.minyoo.xyz/beyond-academic-publication](https://www.minyoo.xyz/beyond-academic-publication)
 
 **Eagle, T.**, Baltaxe-Admony, L.B., and Ringland K.E. (written collectively). *Creating a Lab with a Culture of Care*. Workshop: Dreaming Disability Justice in HCI. CHI 2022. [(Medium Post)](https://medium.com/misfitlabs/creating-a-lab-with-a-culture-of-care-2b19bb0b2a22)
 
 **Eagle, T.** and Ringland K.E. *Social Media-Based Community Support for People with Differing ADHD Diagnoses*. Workshop: The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support. CSCW 2021 [(Paper)](https://alexpapster.wixsite.com/futureofohcs/projects-3)
 
 ## Invited Doctoral Consortia
-Eagle, T. "Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities." Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3500868.3561402)
+Eagle, T. "*Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities.*" Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3500868.3561402)
 
-Eagle, T. "Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities." The 24th International ACM SIGACCESS Conference on Computers and Accessibility. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3517428.3550409)
+Eagle, T. "*Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities.*" The 24th International ACM SIGACCESS Conference on Computers and Accessibility. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3517428.3550409)
 
 ## Accepted Abstracts and Presentations
-**Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "[CHI2023] Decisions on paper 42 for CHI2023”: A Playful Twist on the Peer Review Process and Methodological Gaslighting". CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2023. [(Paper)](https://dl.acm.org/doi/10.1145/3544549.3582745)
+**Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "[CHI2023] Decisions on paper 42 for CHI2023”: *A Playful Twist on the Peer Review Process and Methodological Gaslighting*". CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2023. [(Paper)](https://dl.acm.org/doi/10.1145/3544549.3582745)
 
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., *Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses*. NYC Neuromodulation 2020 Online Conference, P27, [(Full Text and Poster)](https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html)
 
