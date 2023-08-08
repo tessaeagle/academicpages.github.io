@@ -13,6 +13,8 @@ author_profile: true
 
 {% include base_path %}
 ## Conference Papers
+**Eagle, T.** and Ringland, K.E. 2023. "You Can’t Possibly Have ADHD": Exploring Validation and Tensions around Diagnosis within Un-bounded ADHD Social Media Communities. SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023, New York, NY, USA. 17 pages, https://doi.org/10.1145/3597638.3608400
+
 **Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Full Paper)](https://dl.acm.org/doi/10.1145/3555155) [(Conference Presentation)](https://www.youtube.com/watch?v=q347mu3n8ok&ab_channel=ACMSIGCHI)
 
 Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022. [(Full Paper)](https://doi.org/10.1145/3491102.3517442)
@@ -34,7 +36,9 @@ Eagle, T. "*Exploring Collective Medical Knowledge and Tensions in Online ADHD C
 
 Eagle, T. "*Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities.*" The 24th International ACM SIGACCESS Conference on Computers and Accessibility. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3517428.3550409)
 
-## Accepted Abstracts and Presentations
+## Extended Abstracts and Presentations
+**Eagle, T.**, Baltaxe-Admony, L.B., Ringland, K.E. Proposing Body Doubling as a Continuum of Space/Time and Mutuality: An Investigation with Neurodivergent Participants. In The 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023. https://doi.org/10.1145/3597638.3614486
+
 **Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "[CHI2023] Decisions on paper 42 for CHI2023”: *A Playful Twist on the Peer Review Process and Methodological Gaslighting*". CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2023. [(Paper)](https://dl.acm.org/doi/10.1145/3544549.3582745)
 
 Garikapati, S., **Eagle T.**, Distefano, G., & Hagberg, S., *Mechanical affective touch therapy (MATT) to enhance executive function and electrophysiological stress responses*. NYC Neuromodulation 2020 Online Conference, P27, [(Full Text and Poster)](https://neuromodec.com/nyc-neuromodulation-online-2020/P27.html)
