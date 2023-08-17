@@ -25,7 +25,7 @@ Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARM
 **Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017. [(Journal Link)](https://doi.org/10.1016/j.msard.2017.10.002) [(Full Text)](http://tessaeagle.github.io/files/MSARD.pdf)
 
 ## Workshop Papers
-Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: Community-Focused Research Communication*. Workshop: Beyond Academic Publication: Alternative Outcomes of HCI Research. ACM Designing Interactive Systems. 2023. [[https://www.minyoo.xyz/beyond-academic-publication](https://www.minyoo.xyz/_files/ugd/285182_89eca61efaa841afa1949e46c5162422.pdf)]([https://www.minyoo.xyz/beyond-academic-publication](https://www.minyoo.xyz/_files/ugd/285182_89eca61efaa841afa1949e46c5162422.pdf))
+Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: Community-Focused Research Communication*. Workshop: Beyond Academic Publication: Alternative Outcomes of HCI Research. ACM Designing Interactive Systems. 2023. [Workshop Page](https://www.minyoo.xyz/_files/ugd/285182_89eca61efaa841afa1949e46c5162422.pdf)
 
 **Eagle, T.**, Baltaxe-Admony, L.B., and Ringland K.E. (written collectively). *Creating a Lab with a Culture of Care*. Workshop: Dreaming Disability Justice in HCI. CHI 2022. [(Medium Post)](https://medium.com/misfitlabs/creating-a-lab-with-a-culture-of-care-2b19bb0b2a22)
 
