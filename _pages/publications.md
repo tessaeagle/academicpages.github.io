@@ -37,7 +37,7 @@ Eagle, T. "*Exploring Collective Medical Knowledge and Tensions in Online ADHD C
 Eagle, T. "*Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities.*" The 24th International ACM SIGACCESS Conference on Computers and Accessibility. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3517428.3550409)
 
 ## Extended Abstracts and Presentations
-**Eagle, T.**, Baltaxe-Admony, L.B., Ringland, K.E. Proposing Body Doubling as a Continuum of Space/Time and Mutuality: An Investigation with Neurodivergent Participants. In The 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023. https://doi.org/10.1145/3597638.3614486
+**Eagle, T.**, Baltaxe-Admony, L.B., Ringland, K.E. Proposing Body Doubling as a Continuum of Space/Time and Mutuality: An Investigation with Neurodivergent Participants. In The 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023. https://doi.org/10.1145/3597638.3614486 [(Paper)](https://drive.google.com/file/d/1wFXAzBRCGgbqvYXWjuD1CQVK7cB6iDiJ/view?usp=sharing)
 
 **Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "[CHI2023] Decisions on paper 42 for CHI2023”: *A Playful Twist on the Peer Review Process and Methodological Gaslighting*". CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2023. [(Paper)](https://dl.acm.org/doi/10.1145/3544549.3582745)
 
