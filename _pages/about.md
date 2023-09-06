@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a human computer interaction researcher and fourth-year PhD candidate in <a href="https://www.soe.ucsc.edu/departments/computational-media">Computational Media</a> at UC Santa Cruz with a background in cognitive science, clinical healthcare, and tech. My research interests include digital mental health, accessibility, and online communities. My work sits at the intersection of HCI, Disability Studies, and Medical Anthropology. I use qualitative methods to study alternative support systems for neurodivergent individuals and people with psychosocial disabilities, including community-based avenues for support. I am passionate about using and evaluating technology to improve and support wellbeing and inclusive experiences.
+I am a human computer interaction researcher and fifth-year PhD candidate in <a href="https://www.soe.ucsc.edu/departments/computational-media">Computational Media</a> at UC Santa Cruz with a background in cognitive science, clinical healthcare, and tech. My research interests include neurodivergence and tech, digital mental health, accessibility, and online communities. My work sits at the intersection of HCI, Disability Studies, and Medical Anthropology. I use qualitative methods to study alternative support systems for neurodivergent individuals and people with psychosocial disabilities, including community-based avenues for support. I am passionate about using and evaluating technology to improve and support wellbeing and inclusive experiences.
 
 My current projects cover topics such as: 
-* Social Media Community Support and Care
+* Care in ADHD Social Media Communities [(ASSETS Paper)](https://drive.google.com/file/d/1OBNMfZmTm036DeW_ZPJz7g6Q6IBvZRyj/view)
 * Tensions between disabled communities and medical institutions
 * Accessible Education and Social Media Practices
 * Patients as Experts
