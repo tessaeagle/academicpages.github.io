@@ -184,10 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  reading list:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -236,12 +235,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _reading_list
   - scope:
       path: ""
-      type: talks
+      type: reading list
     values:
-      layout: talk
+      layout: reading list
       author_profile: true
       share: true
 
