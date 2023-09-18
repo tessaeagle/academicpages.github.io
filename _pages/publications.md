@@ -25,7 +25,7 @@ Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARM
 **Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017. [(Journal Link)](https://doi.org/10.1016/j.msard.2017.10.002) [(Full Text)](http://tessaeagle.github.io/files/MSARD.pdf)
 
 ## Workshop Papers
-**Eagle, T.** and Ringland K.E.  *Click Here for Trauma-Informed Academia*. Workshop: Trauma-Informed Design: A Collaborative Approach to Building Safer Online Spaces. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2023. https://sites.google.com/view/traumainformedcscw. [(Workshop Paper)](https://drive.google.com/file/d/1n0lokxfrYjpSr45vvQJ5XB_v7du1JRZ8/view?usp=sharing)
+**Eagle, T.** and Ringland K.E.  *Click Here for Trauma-Informed Academia*. Workshop: Trauma-Informed Design: A Collaborative Approach to Building Safer Online Spaces. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2023. https://sites.google.com/view/traumainformedcscw. [(Workshop Paper)](https://drive.google.com/file/d/1jJLHB2_fJks3xEOuZCjN1W7UAEt6mz0e/view?usp=sharing)
 
 Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: Community-Focused Research Communication*. Workshop: Beyond Academic Publication: Alternative Outcomes of HCI Research. ACM Designing Interactive Systems. 2023. https://www.minyoo.xyz/beyond-academic-publication. [(Workshop Paper)](https://www.minyoo.xyz/_files/ugd/285182_89eca61efaa841afa1949e46c5162422.pdf)
 
