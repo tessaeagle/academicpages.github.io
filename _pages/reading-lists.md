@@ -12,13 +12,13 @@ author_profile: true
 A non-exhaustive list of books, articles and other media I have found to be useful and informative in my work and as a human.
 
 ## HCI and Tech
-Benjamin, Ruha. "Race after technology." Social Theory Re-Wired. Routledge, 2023. 405-415.
+Benjamin, Ruha. "Race after technology." Social Theory Re-Wired. Routledge, 2023.
 
 Noble, Safiya Umoja. "Algorithms of oppression." Algorithms of oppression. New York university press, 2018.
 
 Gray, Mary L., and Siddharth Suri. Ghost work: How to stop Silicon Valley from building a new global underclass. Eamon Dolan Books, 2019.
 
-Zuboff, Shoshana. "The age of surveillance capitalism." Social Theory Re-Wired. Routledge, 2023. 203-213.
+Zuboff, Shoshana. "The age of surveillance capitalism." Social Theory Re-Wired. Routledge, 2023.
 
 O'neil, Cathy. Weapons of math destruction: How big data increases inequality and threatens democracy. Crown, 2017.
 
