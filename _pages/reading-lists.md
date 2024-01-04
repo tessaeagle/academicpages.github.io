@@ -9,7 +9,7 @@ author_profile: true
 
 
 {% include base_path %}
-Articles and media I have found to be useful and informative in my work and as a human.
+A non-exhaustive list of books, articles and other media I have found to be useful and informative in my work and as a human.
 
 ## HCI and Tech
 Benjamin, Ruha. "Race after technology." Social Theory Re-Wired. Routledge, 2023. 405-415.
