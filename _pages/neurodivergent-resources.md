@@ -17,19 +17,19 @@ Neurodivergent means having a mind that functionally diverges from societal view
 Examples: ADHD, ASPD, DID + OSDD, BPD, NPD, Dyslexia, CPTSF, Dypsraxia, Sensory processing disorder, Dyscalculia, PTSD, Dysgraphic, Bipolar, Autism, Epilepsy, OCD, ABI, TIC Disorders, Schizophrenia, Misophonia, HPD, Down Syndrome, Synesthsia [Neurodivergent Umbrella Source](https://www.livedexperienceeducator.com/resources)
 
 ## ND Affirming Therapist Directories
-[](https://neurodivergentpractitioners.org/)
+[Neurodivergent Practitioners](https://neurodivergentpractitioners.org/)
 
-[](https://add.org/professional-directory/)
+[ADD.org Directory](https://add.org/professional-directory/)
 
-[](https://www.additudemag.com/top-adhd-clinics/)
+[ADDitude Mag Directory](https://www.additudemag.com/top-adhd-clinics/)
 
-[](https://neuroclastic.com/diagnosticians/)
+[Neuroclastic - Diagnosticians](https://neuroclastic.com/diagnosticians/)
 
-[](https://www.ndaffirmingcare.com/)
+[ND Affirming Care](https://www.ndaffirmingcare.com/)
 
-[](https://neurodivergenttherapists.com/directory/)
+[ND Therapists Directory](https://neurodivergenttherapists.com/directory/)
 
-[](https://www.therapyden.com/online-therapy)
+[Therapy Den](https://www.therapyden.com/online-therapy)
 
 
 ## ND Affirming Practices
