@@ -36,4 +36,4 @@ Examples: ADHD, ASPD, DID + OSDD, BPD, NPD, Dyslexia, CPTSF, Dypsraxia, Sensory 
 
 ## ND Affirming Practices
 
-
+Lived Experience Educator's [Neurodiversity Affirming Principles](https://www.livedexperienceeducator.com/neurodiversityaffirmingpractice)
