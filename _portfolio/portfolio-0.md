@@ -30,6 +30,6 @@ How do neurodivergent individuals define and use body doubling?
 [Extended Abstract](https://dl.acm.org/doi/abs/10.1145/3597638.3614486)
 
 ## Results
-<object data="{{ site.url }}{{ site.baseurl }}/files/Body_Doubling_Poster_ASSETS.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/files/Body_Doubling_Poster_ASSETS.pdf" width="1000" height="800" type="application/pdf"></object>
 
 
