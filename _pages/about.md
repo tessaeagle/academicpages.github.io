@@ -12,10 +12,7 @@ I am a mixed-methods human-computer interaction researcher and fifth-year PhD ca
 
 My current projects cover topics such as: 
 * Care in ADHD Social Media Communities [(ASSETS Paper)](https://drive.google.com/file/d/1OBNMfZmTm036DeW_ZPJz7g6Q6IBvZRyj/view)
-* Tensions between disabled communities and medical institutions
+* Tensions between disabled communities and medical institutions and communities as experts
 * Accessible Education and Social Media Practices
-* Patients as Experts
 
-I am currently dissertating ([Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities](https://dl.acm.org/doi/fullHtml/10.1145/3517428.3550409)) and anticipate completing my PhD in June 2024. **I'm on the job market for industry UX Research roles or post-docs starting in Summer 2024.** Please reach out if you have openings or know of interesting opportunities :) 
-            
-Feel free to email me at teagle [at] ucsc [dot] edu, connect with me on <a href="https://twitter.com/tessuheagle">Twitter</a>, or read more about my experience: <a href="https://drive.google.com/file/d/1_MdjmbwgwnwmVgqx7ZJaxQZ9annA2DtW/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
+I anticipate completing my PhD in Summer 2024. **I'm on the job market for industry UX Research roles or post-docs starting in Summer 2024.** Please reach out if you have openings or know of interesting opportunities :) Feel free to email me at teagle [at] ucsc [dot] edu, connect with me on <a href="https://twitter.com/tessuheagle">Twitter</a>, or read more about my experience: <a href="https://drive.google.com/file/d/1_MdjmbwgwnwmVgqx7ZJaxQZ9annA2DtW/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
