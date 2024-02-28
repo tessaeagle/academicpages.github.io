@@ -10,9 +10,14 @@ collection: portfolio
 
 ## Selected Visualizations
 <br>
+
+<img src='/images/Int_ALP.png'><br>
+
 <img src='/images/trust1.png'><br>
 
-<img src='/images/study2_codes_curious.pdf'><br>
+<img src='/images/study1_main.png'><br>
+
+<img src='/images/study2_int_expectation.png'><br>
 
 <img src='/images/boxplot2.png'><br>
 
