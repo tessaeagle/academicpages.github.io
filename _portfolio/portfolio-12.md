@@ -10,9 +10,8 @@ In June 2020, I began participating in a weekly data visualization challenge aim
 **Project Year:** 2020 - present
 
 ## Selected Visualizations
-This plot utilized video game [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-16/readme.md) from Steam. I looked across an eight year period (2012-2020) to explore the games with the highest number of players online at the same time. My design for this plot was insired by Atari's Breakout game.<br>
+<br>
 <img src='/images/trust1.png'><br>
-
 
 The next visualization used [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-02/readme.md) from FiveThirtyEight looking at the content of commercials aired during the Superbowl. I wanted to try implementing a stream graph which is a type of stacked area chart, which is somewhat reminiscent of the shape of a football.<br>
 <img src='/images/super.png'><br>
