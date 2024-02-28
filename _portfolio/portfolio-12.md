@@ -5,7 +5,6 @@ collection: portfolio
 ---
 
 ## Background
-In June 2020, I began participating in a weekly data visualization challenge aimed at improving data wrangling and presentation skills. A subset of my work is presented here, but for further viewing see the below repositories for all of my visualizations with their respective R code. Each week, I aimed to try implementing a new type of chart, feature, or color palette to expand my coding skillset. Some of them took hours and some less than an hour depdening on the initial dataset and my goals for that week. 
 
 **Project Year:** 2020 - present
 
@@ -13,8 +12,7 @@ In June 2020, I began participating in a weekly data visualization challenge aim
 <br>
 <img src='/images/trust1.png'><br>
 
-The next visualization used [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-02/readme.md) from FiveThirtyEight looking at the content of commercials aired during the Superbowl. I wanted to try implementing a stream graph which is a type of stacked area chart, which is somewhat reminiscent of the shape of a football.<br>
-<img src='/images/super.png'><br>
+<img src='/images/study2_codes_curious.pdf'><br>
 
 
 R has a built in package for [data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md) from the show Friends. It contains speaker and dialogue data broken down by season and episode. I tested out using a waffle chart to display the ratio of time each main character spent talking in each of the ten seasons.<br>
