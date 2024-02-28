@@ -13,3 +13,6 @@ collection: portfolio
 <img src='/images/trust1.png'><br>
 
 <img src='/images/study2_codes_curious.pdf'><br>
+
+<img src='/images/boxplot2.png'><br>
+
