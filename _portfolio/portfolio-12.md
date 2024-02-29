@@ -1,6 +1,6 @@
 ---
 title: "Academic Data Visualization"
-excerpt: "Repository of plots I've made for academic publications <br><br><img src='/images/trust1.png' width="250">"
+excerpt: "Repository of plots I've made for academic publications <br><br><img src='/images/trust2.png'>"
 collection: portfolio
 ---
 
