@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Read more about my experience here: <a href="https://drive.google.com/file/d/1_MdjmbwgwnwmVgqx7ZJaxQZ9annA2DtW/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
+Read more about my experience here: <a href="https://drive.google.com/file/d/16zLvKctehJvZacTqg7H17zGcpJegcKPz/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
 
 Education
 ======
