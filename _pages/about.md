@@ -7,15 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T1MY0TDPZL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-T1MY0TDPZL');
-</script>
 
 I am a mixed-methods human-computer interaction researcher and fifth-year PhD candidate in <a href="https://www.soe.ucsc.edu/departments/computational-media">Computational Media</a> at UC Santa Cruz with a background in cognitive science, clinical healthcare, and tech. My research interests include neurodivergence and tech, digital mental health, accessibility, and online communities. My work sits at the intersection of HCI, Disability Studies, and Medical Anthropology. I use primarily qualitative methods to study alternative support systems for neurodivergent individuals and people with psychosocial disabilities, including community-based avenues for support. I am passionate about using and evaluating technology to improve and support wellbeing and inclusive experiences.
 
