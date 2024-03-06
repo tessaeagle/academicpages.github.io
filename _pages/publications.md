@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-permalink: /publications/
+permalink: 
 author_profile: true
 ---
 
@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
 ## Conference Papers
 McDonnell, E.J., **Eagle, T.**, Sinlapanuntakul, P., Moon, S.H., Froehlich, J.E., Ringland, K.E., Findlater, L. 2024. “*Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok*. Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA
 
