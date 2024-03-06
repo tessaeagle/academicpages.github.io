@@ -1,5 +1,5 @@
 ---
-title: ""You Can’t Possibly Have ADHD": Exploring Validation and Tensions around Diagnosis within Un-bounded ADHD Social Media Communities"
+title: "You Can’t Possibly Have ADHD": Exploring Validation and Tensions around Diagnosis within Un-bounded ADHD Social Media Communities"
 collection: publications
 permalink: /publication/2023_ASSETS
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
