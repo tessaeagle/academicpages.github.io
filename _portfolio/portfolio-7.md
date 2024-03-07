@@ -27,3 +27,11 @@ We used Tracery to create a Twitterbot that was set to tweet every six hours. Tr
 
 <img src='/images/magik.png'>
 
+### Creation of a Tracery Twitterbot to randomly post bite-sized motivational fitness and wellbeing tweets every hour
+
+**Project Year:** Fall 2020
+
+<img src='/images/twb.png'>
+
+[@tinyworkoutbot Twitter account](https://twitter.com/tinyworkoutbot)
+
