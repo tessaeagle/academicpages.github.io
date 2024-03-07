@@ -45,7 +45,7 @@ Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: 
 **Eagle, T.** and Ringland K.E. *Social Media-Based Community Support for People with Differing ADHD Diagnoses*. Workshop: The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support. CSCW 2021 [(Paper)](https://alexpapster.wixsite.com/futureofohcs/projects-3)
 
 ### Looking for Care in Playful Online Communities
-Ringland, K.E., Wolf, C.T., **Eagle, T.**, Weatherwax, K. “Looking for Care in Playful Online Communities.” Workshop: The Future of Care Work:  Towards a Radical Politics of Care in CSCW Research and Practice. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2021. https://sites.google.com/view/futureofcarework
+Ringland, K.E., Wolf, C.T., **Eagle, T.**, Weatherwax, K. “Looking for Care in Playful Online Communities.” Workshop: The Future of Care Work:  Towards a Radical Politics of Care in CSCW Research and Practice. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2021. [(Website)](https://sites.google.com/view/futureofcarework)
 
 ## Invited Doctoral Consortia
 ### Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities
