@@ -16,7 +16,7 @@ author_profile: true
 McDonnell, E.J., **Eagle, T.**, Sinlapanuntakul, P., Moon, S.H., Froehlich, J.E., Ringland, K.E., Findlater, L. 2024. “*Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok*. Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA
 
 ### "You Can’t Possibly Have ADHD": Exploring Validation and Tensions around Diagnosis within Un-bounded ADHD Social Media Communities
-**Eagle, T.** and Ringland, K.E. 2023. *"You Can’t Possibly Have ADHD": Exploring Validation and Tensions around Diagnosis within Un-bounded ADHD Social Media Communities*. SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023, New York, NY, USA. 17 pages, https://doi.org/10.1145/3597638.3608400 [(Full Paper)](https://drive.google.com/file/d/1OBNMfZmTm036DeW_ZPJz7g6Q6IBvZRyj/view?usp=sharing)
+**Eagle, T.** and Ringland, K.E. 2023. *"You Can’t Possibly Have ADHD": Exploring Validation and Tensions around Diagnosis within Un-bounded ADHD Social Media Communities*. SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023, New York, NY, USA. 17 pages. [(Full Paper)](https://doi.org/10.1145/3597638.3608400)
 
 ### “Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps
 **Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Full Paper)](https://dl.acm.org/doi/10.1145/3555155) [(Conference Presentation)](https://www.youtube.com/watch?v=q347mu3n8ok&ab_channel=ACMSIGCHI)
@@ -33,13 +33,13 @@ Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARM
 
 ## Workshop Papers
 ### Click Here for Trauma-Informed Academia
-**Eagle, T.** and Ringland K.E.  *Click Here for Trauma-Informed Academia*. Workshop: Trauma-Informed Design: A Collaborative Approach to Building Safer Online Spaces. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2023. https://sites.google.com/view/traumainformedcscw. [(Workshop Paper)](https://drive.google.com/file/d/1jJLHB2_fJks3xEOuZCjN1W7UAEt6mz0e/view?usp=sharing)
+**Eagle, T.** and Ringland K.E.  *Click Here for Trauma-Informed Academia*. Workshop: Trauma-Informed Design: A Collaborative Approach to Building Safer Online Spaces. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2023. [(Workshop Website)](https://sites.google.com/view/traumainformedcscw). [(Workshop Paper)](https://drive.google.com/file/d/1jJLHB2_fJks3xEOuZCjN1W7UAEt6mz0e/view?usp=sharing)
 
 ### Sharing is Caring: Community-Focused Research Communication
-Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: Community-Focused Research Communication*. Workshop: Beyond Academic Publication: Alternative Outcomes of HCI Research. ACM Designing Interactive Systems. 2023. https://www.minyoo.xyz/beyond-academic-publication. [(Workshop Paper)](https://www.minyoo.xyz/_files/ugd/285182_89eca61efaa841afa1949e46c5162422.pdf)
+Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: Community-Focused Research Communication*. Workshop: Beyond Academic Publication: Alternative Outcomes of HCI Research. ACM Designing Interactive Systems. 2023. [(Workshop Website)](https://www.minyoo.xyz/beyond-academic-publication). [(Workshop Paper)](https://www.minyoo.xyz/_files/ugd/285182_89eca61efaa841afa1949e46c5162422.pdf)
 
 ### Creating a Lab with a Culture of Care
-**Eagle, T.**, Baltaxe-Admony, L.B., and Ringland K.E. (written collectively). *Creating a Lab with a Culture of Care*. Workshop: Dreaming Disability Justice in HCI. CHI 2022. https://disabilityjusticeinhci.org/#submissions. [(Medium Post)](https://medium.com/misfitlabs/creating-a-lab-with-a-culture-of-care-2b19bb0b2a22)
+**Eagle, T.**, Baltaxe-Admony, L.B., and Ringland K.E. (written collectively). *Creating a Lab with a Culture of Care*. Workshop: Dreaming Disability Justice in HCI. CHI 2022. [(Workshop Website)](https://disabilityjusticeinhci.org/#submissions). [(Medium Post)](https://medium.com/misfitlabs/creating-a-lab-with-a-culture-of-care-2b19bb0b2a22)
 
 ### Social Media-Based Community Support for People with Differing ADHD Diagnoses
 **Eagle, T.** and Ringland K.E. *Social Media-Based Community Support for People with Differing ADHD Diagnoses*. Workshop: The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support. CSCW 2021 [(Paper)](https://alexpapster.wixsite.com/futureofohcs/projects-3)
@@ -55,7 +55,7 @@ Eagle, T. "*Exploring Collective Medical Knowledge and Tensions in Online ADHD C
 
 ## Extended Abstracts and Presentations
 ### Proposing Body Doubling as a Continuum of Space/Time and Mutuality: An Investigation with Neurodivergent Participants
-**Eagle, T.**, Baltaxe-Admony, L.B., Ringland, K.E. *Proposing Body Doubling as a Continuum of Space/Time and Mutuality: An Investigation with Neurodivergent Participants*. In The 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023. https://doi.org/10.1145/3597638.3614486 [(Paper)](https://drive.google.com/file/d/1wFXAzBRCGgbqvYXWjuD1CQVK7cB6iDiJ/view?usp=sharing)
+**Eagle, T.**, Baltaxe-Admony, L.B., Ringland, K.E. *Proposing Body Doubling as a Continuum of Space/Time and Mutuality: An Investigation with Neurodivergent Participants*. In The 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023. [(Full Paper)](https://doi.org/10.1145/3597638.3614486)
 
 ### "[CHI2023] Decisions on paper 42 for CHI2023”: A Playful Twist on the Peer Review Process and Methodological Gaslighting
 **Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "[CHI2023] Decisions on paper 42 for CHI2023”: *A Playful Twist on the Peer Review Process and Methodological Gaslighting*". CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2023. [(Paper)](https://dl.acm.org/doi/10.1145/3544549.3582745)
