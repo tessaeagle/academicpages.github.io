@@ -1,5 +1,5 @@
 ---
-title: "An investigation of body doubling"
+title: "An Investigation of Body Doubling"
 excerpt: "What is body doubling? It's not cloning - it's a task initiation and completion strategy used by neurodivergent communities. To do what? Click to find out. <br><br><img src='/images/bd_zine.png'>"
 collection: portfolio
 ---
