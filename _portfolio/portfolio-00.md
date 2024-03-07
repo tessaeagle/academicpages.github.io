@@ -8,10 +8,20 @@ collection: portfolio
 
 **Project Year:** 2022 - 2023
 
-## Objective
+## Objective and Motivation
+- Adult ADHD and ADHD presentation in gender and racially-diverse populations is understudied
+- Neurodivergence is understudied within HCI
+- Technology designed for disabled and ND populations has been historically ableist
 
-**Goals:**
+**Research Question**
+How does the ADHD community leverage existing social media platforms to provide support previously contained within domain-specific online health communities?
 
 ## Methods
-- 1.5 year digital ethnography of ADHD communities on Instagram, Tiktok, and Twitter
+- Digital Ethnography of ADHD content (photo/video posts, comments/replies) and communities on TikTok, Twitter, and Instagram
+- Collection and observation Summer 2021 - Winter 2022
+- Coded data inductively
 
+## Themes
+- Discovering ADHD and Navigating Diagnosis
+- Navigating a Neurotypical World
+- Finding Acceptance and Validation
