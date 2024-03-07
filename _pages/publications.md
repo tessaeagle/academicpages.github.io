@@ -29,17 +29,17 @@ Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARM
 **Eagle T.**, Blau C., Bales S., Desai N., Li V., Whittaker S. *“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression"*. ACM Transactions on Interactive Intelligent Systems. 2022. [(Full Paper)](https://dl.acm.org/doi/10.1145/3488057)
 
 ### Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis
-**Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017. [(Journal Link)](https://doi.org/10.1016/j.msard.2017.10.002) [(Full Text)](http://tessaeagle.github.io/files/MSARD.pdf)
+**Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017. [(Journal Link)](https://doi.org/10.1016/j.msard.2017.10.002) [(Full Paper)](http://tessaeagle.github.io/files/MSARD.pdf)
 
 ## Workshop Papers
 ### Click Here for Trauma-Informed Academia
-**Eagle, T.** and Ringland K.E.  *Click Here for Trauma-Informed Academia*. Workshop: Trauma-Informed Design: A Collaborative Approach to Building Safer Online Spaces. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2023. [(Workshop Website)](https://sites.google.com/view/traumainformedcscw). [(Workshop Paper)](https://drive.google.com/file/d/1jJLHB2_fJks3xEOuZCjN1W7UAEt6mz0e/view?usp=sharing)
+**Eagle, T.** and Ringland K.E.  *Click Here for Trauma-Informed Academia*. Workshop: Trauma-Informed Design: A Collaborative Approach to Building Safer Online Spaces. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2023. [(Workshop Website)](https://sites.google.com/view/traumainformedcscw) [(Workshop Paper)](https://drive.google.com/file/d/1jJLHB2_fJks3xEOuZCjN1W7UAEt6mz0e/view?usp=sharing)
 
 ### Sharing is Caring: Community-Focused Research Communication
-Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: Community-Focused Research Communication*. Workshop: Beyond Academic Publication: Alternative Outcomes of HCI Research. ACM Designing Interactive Systems. 2023. [(Workshop Website)](https://www.minyoo.xyz/beyond-academic-publication). [(Workshop Paper)](https://www.minyoo.xyz/_files/ugd/285182_89eca61efaa841afa1949e46c5162422.pdf)
+Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: Community-Focused Research Communication*. Workshop: Beyond Academic Publication: Alternative Outcomes of HCI Research. ACM Designing Interactive Systems. 2023. [(Workshop Website)](https://www.minyoo.xyz/beyond-academic-publication) [(Workshop Paper)](https://www.minyoo.xyz/_files/ugd/285182_89eca61efaa841afa1949e46c5162422.pdf)
 
 ### Creating a Lab with a Culture of Care
-**Eagle, T.**, Baltaxe-Admony, L.B., and Ringland K.E. (written collectively). *Creating a Lab with a Culture of Care*. Workshop: Dreaming Disability Justice in HCI. CHI 2022. [(Workshop Website)](https://disabilityjusticeinhci.org/#submissions). [(Medium Post)](https://medium.com/misfitlabs/creating-a-lab-with-a-culture-of-care-2b19bb0b2a22)
+**Eagle, T.**, Baltaxe-Admony, L.B., and Ringland K.E. (written collectively). *Creating a Lab with a Culture of Care*. Workshop: Dreaming Disability Justice in HCI. CHI 2022. [(Workshop Website)](https://disabilityjusticeinhci.org/#submissions) [(Medium Post)](https://medium.com/misfitlabs/creating-a-lab-with-a-culture-of-care-2b19bb0b2a22)
 
 ### Social Media-Based Community Support for People with Differing ADHD Diagnoses
 **Eagle, T.** and Ringland K.E. *Social Media-Based Community Support for People with Differing ADHD Diagnoses*. Workshop: The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support. CSCW 2021 [(Paper)](https://alexpapster.wixsite.com/futureofohcs/projects-3)
