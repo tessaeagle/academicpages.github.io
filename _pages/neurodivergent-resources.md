@@ -14,7 +14,7 @@ A non-exhaustive list of resources that may be useful for neurodivergent humans
 ## What is neurodivergence?
 Neurodivergent means having a mind that functionally diverges from societal views of “normal”. 
 
-Examples: ADHD, ASPD, DID + OSDD, BPD, NPD, Dyslexia, CPTSF, Dypsraxia, Sensory processing disorder, Dyscalculia, PTSD, Dysgraphic, Bipolar, Autism, Epilepsy, OCD, ABI, TIC Disorders, Schizophrenia, Misophonia, HPD, Down Syndrome, Synesthsia [Neurodivergent Umbrella Source](https://www.livedexperienceeducator.com/resources)
+Examples: ADHD, ASPD, DID + OSDD, BPD, NPD, Dyslexia, CPTSF, Dypsraxia, Sensory processing disorder, Dyscalculia, PTSD, Dysgraphic, Bipolar, Autism, Epilepsy, OCD, ABI, TIC Disorders, Schizophrenia, Misophonia, HPD, Down Syndrome, Synesthsia: [Neurodivergent Umbrella Source](https://www.livedexperienceeducator.com/resources)
 
 ## ND Affirming Therapist Directories
 - [Neurodivergent Practitioners](https://neurodivergentpractitioners.org/)
@@ -40,6 +40,7 @@ Lived Experience Educator's [Neurodiversity Affirming Principles](https://www.li
 - Flow.club (https://www.flow.club/)
 - Fiveable study rooms - students (https://fiveable.me/)
 - r/ADHD discord (join through https://www.reddit.com/r/ADHD/)
+- Study Together (https://www.studytogether.com/)
 
 ##### Paid Platforms
 - Flown (https://flown.com/)
