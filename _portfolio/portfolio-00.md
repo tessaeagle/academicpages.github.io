@@ -26,12 +26,12 @@ How does the ADHD community leverage existing social media platforms to provide 
 - Navigating a Neurotypical World
 - Finding Acceptance and Validation
 
+<img src='/images/ohcs.png'>
+
 ## Proposal: conceptualizing these integrated OHC on open social media platforms as the “Unbounded Online Health Communities''
 - Traditional OHCs provide isolated health-related support and are domain-specific
 - Unbounded OHCs = Communities that live on open, algorithmically-driven social media platforms
 - Broadens potential membership reach!
-
-<img src='/images/ohcs.png'>
 
 ## Considerations
 - Broaden recruitment to include individuals with self-diagnoses and those traditionally excluded from ADHD research
