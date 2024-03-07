@@ -13,7 +13,7 @@ collection: portfolio
 - Neurodivergence is understudied within HCI
 - Technology designed for disabled and ND populations has been historically ableist
 
-**Research Question**
+## Research Question
 How does the ADHD community leverage existing social media platforms to provide support previously contained within domain-specific online health communities?
 
 ## Methods
