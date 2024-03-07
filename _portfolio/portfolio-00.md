@@ -31,6 +31,8 @@ How does the ADHD community leverage existing social media platforms to provide 
 - Unbounded OHCs = Communities that live on open, algorithmically-driven social media platforms
 - Broadens potential membership reach!
 
+<img src='/images/ohcs.png'>
+
   ## Considerations
 - Broaden recruitment to include individuals with self-diagnoses and those traditionally excluded from ADHD research
 - Consider how to facilitate and promote knowledge sharing outside of medical contexts
