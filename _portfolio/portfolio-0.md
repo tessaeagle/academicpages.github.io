@@ -1,6 +1,6 @@
 ---
 title: "An investigation of body doubling"
-excerpt: "<br><br><img src='/images/bd_matrix.png'>"
+excerpt: "<br><br><img src='/images/bd_zine.png'>"
 collection: portfolio
 ---
 
