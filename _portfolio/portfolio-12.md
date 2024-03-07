@@ -13,7 +13,7 @@ collection: portfolio
 
 <img src='/images/Int_ALP.png'><br>
 
-<img src='/images/trust1.png'><br>
+<img src='/images/trust2.png'><br>
 
 <img src='/images/study1_main.png'><br>
 
