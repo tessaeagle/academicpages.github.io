@@ -11,8 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Conference Papers
----
+# Conference Papers
 ### "Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok
 McDonnell, E.J., **Eagle, T.**, Sinlapanuntakul, P., Moon, S.H., Froehlich, J.E., Ringland, K.E., Findlater, L. 2024. “*Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok*. Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA
 
@@ -25,14 +24,14 @@ McDonnell, E.J., **Eagle, T.**, Sinlapanuntakul, P., Moon, S.H., Froehlich, J.E.
 ### ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities
 Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022. [(Full Paper)](https://doi.org/10.1145/3491102.3517442)
 
-## Journal Papers
+# Journal Papers
 ### “I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression
 **Eagle T.**, Blau C., Bales S., Desai N., Li V., Whittaker S. *“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression"*. ACM Transactions on Interactive Intelligent Systems. 2022. [(Full Paper)](https://dl.acm.org/doi/10.1145/3488057)
 
 ### Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis
 **Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017. [(Journal Link)](https://doi.org/10.1016/j.msard.2017.10.002) [(Full Text)](http://tessaeagle.github.io/files/MSARD.pdf)
 
-## Workshop Papers
+# Workshop Papers
 ### Click Here for Trauma-Informed Academia
 **Eagle, T.** and Ringland K.E.  *Click Here for Trauma-Informed Academia*. Workshop: Trauma-Informed Design: A Collaborative Approach to Building Safer Online Spaces. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2023. https://sites.google.com/view/traumainformedcscw. [(Workshop Paper)](https://drive.google.com/file/d/1jJLHB2_fJks3xEOuZCjN1W7UAEt6mz0e/view?usp=sharing)
 
@@ -48,13 +47,13 @@ Baltaxe-Admony, L.B., **Eagle, T.**, Kritika, Ringland K.E. *Sharing is Caring: 
 ### Looking for Care in Playful Online Communities
 Ringland, K.E., Wolf, C.T., **Eagle, T.**, Weatherwax, K. “Looking for Care in Playful Online Communities.” Workshop: The Future of Care Work:  Towards a Radical Politics of Care in CSCW Research and Practice. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2021. https://sites.google.com/view/futureofcarework
 
-## Invited Doctoral Consortia
+# Invited Doctoral Consortia
 ### Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities
 Eagle, T. "*Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities.*" Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3500868.3561402)
 
 Eagle, T. "*Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities.*" The 24th International ACM SIGACCESS Conference on Computers and Accessibility. 2022. [(Paper)](https://dl.acm.org/doi/10.1145/3517428.3550409)
 
-## Extended Abstracts and Presentations
+# Extended Abstracts and Presentations
 ### Proposing Body Doubling as a Continuum of Space/Time and Mutuality: An Investigation with Neurodivergent Participants
 **Eagle, T.**, Baltaxe-Admony, L.B., Ringland, K.E. *Proposing Body Doubling as a Continuum of Space/Time and Mutuality: An Investigation with Neurodivergent Participants*. In The 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023. https://doi.org/10.1145/3597638.3614486 [(Paper)](https://drive.google.com/file/d/1wFXAzBRCGgbqvYXWjuD1CQVK7cB6iDiJ/view?usp=sharing)
 
