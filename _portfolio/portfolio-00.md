@@ -1,5 +1,5 @@
 ---
-title: "Unbounded social media communities for identity discovery"
+title: "Unbounded Social Media Communities for Identity Discovery"
 excerpt: "<br><br><img src='/images/ohcs.png'>"
 collection: portfolio
 ---
