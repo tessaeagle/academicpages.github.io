@@ -33,7 +33,7 @@ How does the ADHD community leverage existing social media platforms to provide 
 
 <img src='/images/ohcs.png'>
 
-  ## Considerations
+## Considerations
 - Broaden recruitment to include individuals with self-diagnoses and those traditionally excluded from ADHD research
 - Consider how to facilitate and promote knowledge sharing outside of medical contexts
 - Continual calls to design with neurodivergent communities and listen to what they need
