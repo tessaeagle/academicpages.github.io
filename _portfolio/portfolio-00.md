@@ -1,6 +1,6 @@
 ---
 title: "Unbounded Social Media Communities for Identity Discovery"
-excerpt: "<br><br><img src='/images/ohcs.png'>"
+excerpt: "ADHD has been sensationalized by the media. "Everyone has it now" and yet it remains underdiagnosed. Social media is actually providing a service to many that have gone undiagnosed their entire lives, wondering why they feel different. A different take on social media and ADHD. <br><br><img src='/images/ohcs.png'>"
 collection: portfolio
 ---
 
