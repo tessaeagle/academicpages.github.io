@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Hi! I'm Tessa."
-subtitle: Tech Researcher and Disability Advocate
+title: "Hi! I'm Tessa. Tech Researcher and Disability Advocate."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
