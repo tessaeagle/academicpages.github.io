@@ -33,5 +33,5 @@ How do neurodivergent individuals define and use body doubling?
 <object data="{{ site.url }}{{ site.baseurl }}/files/Body_Doubling_Poster_ASSETS.pdf" width="1000" height="800" type="application/pdf"></object>
 
 ## Zine!
-<object data="{{ site.url }}{{ site.baseurl }}/files/BD_Zine.pdf" width="500" height="700" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/files/BD_Zine.pdf" width="500" height="600" type="application/pdf"></object>
 
