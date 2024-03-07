@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 **📱Tech Researcher and Disability Advocate✨ passionate about supporting wellbeing and inclusive technology experiences**
-
 ## Background
 I am a mixed-methods human-computer interaction researcher and fifth-year PhD candidate in <a href="https://www.soe.ucsc.edu/departments/computational-media">Computational Media</a> at UC Santa Cruz with a background in cognitive science, clinical research, and tech. My work sits at the intersection of HCI, Disability Studies, and Medical Anthropology. I use primarily qualitative methods to study online support systems for neurodivergent individuals and people with psychosocial disabilities.
 
