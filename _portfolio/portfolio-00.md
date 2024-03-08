@@ -1,6 +1,6 @@
 ---
 title: "Unbounded Social Media Communities for Identity Discovery"
-excerpt: "ADHD has been sensationalized by the media. 'Everyone has it now' and yet it remains underdiagnosed. Social media is actually providing a service to many who have gone undiagnosed their entire lives, wondering why they feel different. A different take on social media and ADHD. <br><br><img src='/images/ohcs.png'>"
+excerpt: "ADHD has been sensationalized by the media. 'Everyone has it now' and yet it remains underdiagnosed. Social media is actually providing a service to many who have gone undiagnosed their entire lives, wondering why they feel different. A different take on social media and ADHD. <br><br><img src='/images/ohcs.png' alt = 'Model of online health communities. Traditional OHCs: A newly diagnosed person seeks information online. They find existing communities via Google, Facebook, and Reddit. They get education, support, validation, and resources. Unbounded online health communities: An undignosed person scrolls daily on TikTok. They start seeing content about ADHD, relating to content and reframing their past experiences. They then can use the info/strategies, self-diagnose, seek formal diagnoses, and get support.'>"
 collection: portfolio
 ---
 
@@ -26,7 +26,7 @@ How does the ADHD community leverage existing social media platforms to provide 
 - Navigating a Neurotypical World
 - Finding Acceptance and Validation
 
-<img src='/images/ohcs.png'>
+<img src='/images/ohcs.png'  alt = 'Model of online health communities. Traditional OHCs: A newly diagnosed person seeks information online. They find existing communities via Google, Facebook, and Reddit. They get education, support, validation, and resources. Unbounded online health communities: An undignosed person scrolls daily on TikTok. They start seeing content about ADHD, relating to content and reframing their past experiences. They then can use the info/strategies, self-diagnose, seek formal diagnoses, and get support.>
 
 ## Proposal: conceptualizing these integrated OHC on open social media platforms as the “Unbounded Online Health Communities''
 - Traditional OHCs provide isolated health-related support and are domain-specific
