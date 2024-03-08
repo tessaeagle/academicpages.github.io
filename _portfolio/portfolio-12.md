@@ -1,6 +1,6 @@
 ---
 title: "Academic Data Visualization"
-excerpt: "Repository of plots I've made for academic publications <br><br><img src='/images/trust1.png' alt = 'Stacked bar chart of proportion of ratings for overall trust in things pertaining to ADHD. 7-point Likert ratings ranged from "Very Untrustworthy to Very Trustworthy". The following categories were asked about: Self Diganosis (neutral/somewhat), ADHD Content Creators (primarily somewhat trustworthy), Information about ADHD on social media (middling ratings), Press coverage of ADHD (Leans untrustworthy), Doctors on social media (trustworty), Content about ADHD from people without ADHD (untrustworthy to very untrustworthy).'>"
+excerpt: "Repository of plots I've made for academic publications <br><br><img src='/images/trust1.png'>"
 collection: portfolio
 ---
 
