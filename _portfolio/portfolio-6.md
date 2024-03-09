@@ -1,6 +1,6 @@
 ---
 title: "Shiny Application"
-excerpt: "Stemming from a prior static data visualzation, I developed an interactive Shiny web application using R to explore historical (1997-2016) government spending on children.<br><br><img src='/images/shinyGif.gif'>"
+excerpt: "Stemming from a prior static data visualization, I developed an interactive Shiny web application using R to explore historical (1997-2016) government spending on children.<br><br><img src='/images/shinyGif.gif' alt = 'screencap of the Shiny web app. A slider changes the year selected for the data visualization, going through six different examples. The data is displayed on a hex map of the United States, with fill colors representing the spending of each state's government on various programs targeted at children'>"
 collection: portfolio
 ---
 
@@ -35,4 +35,4 @@ The server function is where I coded the ggplot visualization and converted the 
 
 The figure below provides an example of the reactivity of the map. In the gif, the fill variable (funding program) is selected at PK -12 Education. The different frames of the gif show the changes made to the map when the year selection changes. The final code for the app can be seen [here](https://github.com/tessaeagle/governmentspending/blob/main/app.R). <br>
 
-<img src='/images/shinyGif.gif'>
+<img src='/images/shinyGif.gif' alt = 'screencap of the Shiny web app. A slider changes the year selected for the data visualization, going through six different examples. The data is displayed on a hex map of the United States, with fill colors representing the spending of each state's government on various programs targeted at children'>
