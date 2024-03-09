@@ -1,6 +1,6 @@
 ---
 title: "Mental Health App Recommender Website"
-excerpt: "Interactive prototype designed in Figma to guide users through a set of questions in order to present them with a personalized set of recommended mental health apps<br><br><img src='/images/kaizen2.png'>"
+excerpt: "Interactive prototype designed in Figma to guide users through a set of questions in order to present them with a personalized set of recommended mental health apps<br><br><img src='/images/kaizen2.png' alt = 'screenshot of kaizen UI displaying apps that a user may find helpful e.g., Calm, Sanvello, TalkLife, Woebot with filtering options along the side.'>"
 collection: portfolio
 ---
 ## Background
