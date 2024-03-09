@@ -1,6 +1,6 @@
 ---
 title: "GPT-2 Tracery Twitterbot"
-excerpt: "In this project, we develop a Twitterbot using the [Tracery](tracery.io) text generation and [bot creation](https://cheapbotsdonequick.com/) tool to post GPT-2-generated and expandable grammar content<br><br><img src='/images/gpt.png' alt = 'Screenshot of tweets from our bot account. Pacman Rules. Roketleague has my heart. Today I am fighting against Tom Nook. Thank you guys for watching <33 Sorry if I was a little irritable hehehe >:) hope I can make it through today alive x_x. Omg editing & talking & playing with colors & fortnite & Discord :) come let's play!'>"
+excerpt: "In this project, we develop a Twitterbot using the [Tracery](tracery.io) text generation and [bot creation](https://cheapbotsdonequick.com/) tool to post GPT-2-generated and expandable grammar content<br><br><img src='/images/gpt.png' alt = 'Screenshot of tweets from our bot account. Pacman Rules. Roketleague has my heart. Today I am fighting against Tom Nook. Thank you guys for watching Sorry if I was a little irritable hehehe hope I can make it through today alive x_x. Omg editing & talking & playing with colors & fortnite & Discord :) come let's play!'>"
 collection: portfolio
 ---
 
