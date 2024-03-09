@@ -1,6 +1,6 @@
 ---
 title: "Shiny Application"
-excerpt: "Stemming from a prior static data visualization, I developed an interactive Shiny web application using R to explore historical (1997-2016) government spending on children.<br><br><img src='/images/shinyGif.gif' alt = 'screencap of the Shiny web app. A slider changes the year selected for the data visualization, going through six different examples. The data is displayed on a hex map of the United States, with fill colors representing the spending of each state's government on various programs targeted at children'>"
+excerpt: "Stemming from a prior static data visualization, I developed an interactive Shiny web application using R to explore historical (1997-2016) government spending on children.<br><br><img src='/images/shinyGif.gif' alt = 'Screencap of the Shiny web app. A slider changes the year selected for the data visualization, going through six different examples. The data is displayed on a hex map of the United States, with fill colors representing the spending of each state's government on various programs targeted at children'>"
 collection: portfolio
 ---
 
