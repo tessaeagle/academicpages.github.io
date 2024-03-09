@@ -1,6 +1,6 @@
 ---
 title: "Media Archaeology Zine"
-excerpt: "Zine created for a graduate course exploring histories of media and personal computing<br><br><img src='/images/FRONT.png'>"
+excerpt: "Zine created for a graduate course exploring histories of media and personal computing<br><br><img src='/images/FRONT.png' alt = 'old people and old things by Tessa Eagle (also old). cover of zine with Tetris pieces scattered throughout'>"
 collection: portfolio
 ---
 
