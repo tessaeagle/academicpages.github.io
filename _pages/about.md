@@ -17,5 +17,5 @@ I am a mixed-methods human-computer interaction researcher and fifth-year PhD ca
 ## Current Projects
 * Discovery of ADHD on Social Media [(ASSETS Paper)](https://drive.google.com/file/d/1OBNMfZmTm036DeW_ZPJz7g6Q6IBvZRyj/view)
 * Exploration of Tensions between Disabled Communities and Medical Institutions
-* Bridging Community and Clinical Knowledge
-* Neurodivergent Identity Formation
+* Bridging community and clinical knowledge through interviews with ADHD content creators and clinicians involved in the assessment and management of ADHD
+* Neurodivergent identity formation after later-in-life diagnoses
