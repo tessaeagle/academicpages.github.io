@@ -15,7 +15,7 @@ I am a mixed-methods human-computer interaction researcher and fifth-year PhD ca
 **I'm on the job market for industry UX Research roles or post-docs starting in Summer/Fall 2024.** Please reach out if you have openings or know of interesting opportunities :) Feel free to email me at teagle [at] ucsc [dot] edu or read more about my experience: <a href="https://drive.google.com/file/d/1z4vPZ9HFXnJX0RjBNYW2Pg8HIfASSSsK/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
 
 ## Current Projects
-* Discovery of ADHD on Social Media [(ASSETS Paper)](https://drive.google.com/file/d/1OBNMfZmTm036DeW_ZPJz7g6Q6IBvZRyj/view)
-* Exploration of Tensions between Disabled Communities and Medical Institutions
+* Discovery of ADHD on social media and community benefits [(ASSETS Paper)](https://drive.google.com/file/d/1OBNMfZmTm036DeW_ZPJz7g6Q6IBvZRyj/view)
+* Exploration of tensions between disabled communities and medical institutions
 * Bridging community and clinical knowledge through interviews with ADHD content creators and clinicians involved in the assessment and management of ADHD
 * Neurodivergent identity formation after later-in-life diagnoses
