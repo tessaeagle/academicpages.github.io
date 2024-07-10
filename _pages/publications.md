@@ -12,6 +12,9 @@ author_profile: true
 {% include base_path %}
 
 ## Conference Papers
+### Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds
+Ringland, K.E., Carstensdottir, E., Tung, M., Seetharaman, B., **Eagle, T.**, Baltaxe-Admony, L.B., Wetherwax, K. “Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds”. ACM Conference on Computer Supported Cooperative Work. 2024.
+
 ### "Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok
 McDonnell, E.J., **Eagle, T.**, Sinlapanuntakul, P., Moon, S.H., Froehlich, J.E., Ringland, K.E., Findlater, L. 2024. “*Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok*. Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA
 
@@ -30,6 +33,10 @@ Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARM
 
 ### Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis
 **Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017. [(Journal Link)](https://doi.org/10.1016/j.msard.2017.10.002) [(Full Paper)](http://tessaeagle.github.io/files/MSARD.pdf)
+
+## Public Scholarship
+### Challenging Ableism: A Critical Turn Toward Disability Justice in HCI
+Sum, C.M., Spektor, F., Alharbi, R., Baltaxe-Admony, L.B., Devine, E., Dixon, H.A., Duval, J., **Eagle, T.**, Elavsky, F., Fernandes, K. and Guedes, L.S., 2024. Challenging Ableism: A Critical Turn Toward Disability Justice in HCI. XRDS: Crossroads, The ACM Magazine for Students, 30(4), pp.50-55. [(Article Link)](https://dl.acm.org/doi/abs/10.1145/3665602)
 
 ## Workshop Papers
 ### Click Here for Trauma-Informed Academia
