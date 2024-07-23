@@ -1,6 +1,6 @@
 ---
-title: "Data Visualization"
-excerpt: "Repository of my participation in R for Data Science's Tidy Tuesday community of practice. Each week, a new dataset is released for people to practice their data visualization skills and receive help and feedback from the R community. I primarily work with {ggplot2} for graphics.<br><br><img src='/images/datViz.gif'>"
+title: "Data Visualization Explorations"
+excerpt: "Repository of my participation in R for Data Science's Tidy Tuesday community of practice. Each week, a new dataset is released for people to practice their data visualization skills and receive help and feedback from the R community. I primarily work with {ggplot2} for graphics.<br><br><img src='/images/CoverImages/DataViz_Cover.png' alt = 'Design. Data Visualization Explorations. Playing with ways of presenting quantitative and qualitative data. Data Visualization, Data Cleaning, R + ggplot2'>"
 collection: portfolio
 ---
 
@@ -10,6 +10,8 @@ In June 2020, I began participating in a weekly data visualization challenge aim
 [Github Repository](https://github.com/tessaeagle/TidyTuesday) of R4DS TidyTuesday attempts starting June 2020
 
 [Github Repository](https://github.com/tessaeagle/30daychartchallenge) of my participation in the [30 Day Chart challenge](https://twitter.com/30daychartchall?lang=en)
+
+<img src='/images/datViz.gif'>
 
 **Project Year:** 2020 - present
 
