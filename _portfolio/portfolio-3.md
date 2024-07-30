@@ -19,10 +19,10 @@ Freemium apps may:
 - Place limits on free versions (e.g., usage caps)
 - Allow users to pay to improve their user experience, e.g., by removing advertisements
 
+**Project Year:** 2019-2020 <br>
 
 **Project Goal:** Examine whether common freemium payment practices in popular mental health apps have negative outcomes for users based on user review analysis <br>
-**Project Year:** 2019-2020 <br>
-[Full Paper](https://dl.acm.org/doi/10.1145/3555155)<br>
+
 **Research Questions:** <br>
 - What negative user outcomes can result from mental health apps that utilize freemium payment models? <br>
 - What sub-types of mental health apps use freemium strategies, and what features are most commonly charged for? <br>
@@ -54,4 +54,7 @@ Analysis of first-person experiences indicates negative outcomes result from:
 - Offer criteria for ethical freemium app design
 - Our findings indicating that Restricted Functions and Limited-Term Offers generate more negative outcomes, should lead designers to exercise caution when deploying this approach
 - Continual improvement of professional app audits (e.g., ORCHA (Organization for Review of Care and Health Applications), ADDA (Anxiety and Depression Association of America), PsyberGuide, M-Health Index and Navigation Database (MIND))
+
+[Full Paper](https://dl.acm.org/doi/10.1145/3555155)<br>
+
 
