@@ -4,11 +4,11 @@ excerpt: "Interactive recommender prototypes designed to guide users through a s
 collection: portfolio
 ---
 
-**Project Year:** 2020-2021
+**Project Year:** 2020-2021 <br>
 **Project Goal:** Develop and compare two interactive systems to recommend mental health mobile apps compared against the app store<br>
 
 **Research Questions:**
-- Does providing recommendations ease decision making?
+- Does providing recommendations ease decision-making?
 - Do users prefer searching for apps on their own or being guided?
 - How trustworthy do users find third-party app recommendations?
 - What information do users want when making download decisions?
