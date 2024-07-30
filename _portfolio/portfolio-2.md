@@ -37,6 +37,8 @@ Chatbot Prototype
 - Users did not have a broad sense of the app space
 - Felt somewhat like a black box due to so few questions
 
+<img src = '/images/app_rankings.png'>
+
 ## Design Implications
 **A conversational app recommender reduces decision overload and expedites app selection.**
 
@@ -55,6 +57,7 @@ How trustworthy do users find third-party app recommendations?
 - Chatbot was less trustworthy, somewhat of a black box
 - App store is less trusted, apps can buy reviews, promote their app
 
+<img src = '/images/app_confidence.png'>
 
 
 
