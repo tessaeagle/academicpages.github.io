@@ -6,14 +6,13 @@ collection: portfolio
 
 ## Background
 Mental Health and App-Based Treatment
-- Mental health-related diagnoses are increasing over time, but many people with mental health diagnoses do not receive appropriate treatment
-- Mental health mobile apps have proliferated -> 12,000-20,000 estimated
+- Mental health mobile apps have proliferated as diagnoses increase -> estimated to be over 20,000 apps available
 - There is a need and want for alternatives to traditional treatment
 - Informed decisions around mental health apps require external information sources
 
 Many apps utilize freemium payment models
-- Combination of free and paid features
-- Concerned with converting free users to paying subscribers
+- Combination of free and paid features concerned with converting free users to paying subscribers
+- 
 Freemium apps may:
 - Offer limited functionality, pay for advanced features
 - Have limited-duration free trials
