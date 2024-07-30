@@ -4,11 +4,6 @@ excerpt: "Interactive recommender prototypes designed to guide users through a s
 collection: portfolio
 ---
 
-## Chatbot Background
-Users of mobile apps for mental health are seeking low-cost, stigma-free solutions that are readily accessible and provide support and treatment recommendations. Apps are not a panacea but may provide help to those without other options. There is a clear need for unbiased information on MH apps and third-party systems can provide this. Current app analysis sites have limitations and finding a suitable app on these sites or the app stores can be overwhelming. Providing users with recommendations can increase the speed of decision making [1], but pior app recommender systems have required user app history to make recommendations [2,3]. Task-oriented conversational agents can interact with customers helping them find items or services more effectively [4].
-
-There are currently a small number of academic websites that conduct expert evaluations of mental health apps, but these are ineffective due to constantly evolving apps making site information obsolete as well as the costs involved in generating expert reviews. These sites allow filtering based on several factors, but do not provide personalized options on a user-by-user basis. We developed two rule-based chatbots for providing mental health app recommendations. 
-
 **Project Year:** 2020-2021
 **Project Goal:** Develop and compare two interactive systems to recommend mental health mobile apps compared against the app store<br>
 
@@ -27,6 +22,22 @@ There are currently a small number of academic websites that conduct expert eval
 
 **Task Instructions:** Imagine you are a college student and have lately been experiencing an increase in stress and pressure. You are juggling numerous responsibilities and are struggling to manage feelings of overwhelm while dealing with remote school and your impending graduation. Your feelings of anxiety about your grades and the future have made it difficult for you to engage in self-care activities or stress relief. Recently, your conversations with friends revolve around all of your stress and financial concerns rather than fun and relaxed topics. Please find an app that could be helpful for you to cope with these feelings.
 
+## Results
+App Store
+- Users were less confident in their app decisions (25% did not choose an app)
+- Too many results, and filtering options aren’t granular enough
+- Users were unsure where to start when choosing search terms
+
+Web Prototype
+- Ranked highest across categories
+- Domain specificity provides the illusion of expertise, so people trusted it more
+
+Chatbot Prototype
+- Variability in preference off the bat
+- Users did not have a broad sense of the app space
+- Felt somewhat like a black box due to so few questions
+
+**A conversational app recommender reduces decision overload and expedites app selection.**
 
 
 
