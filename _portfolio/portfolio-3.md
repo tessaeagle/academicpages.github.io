@@ -38,10 +38,20 @@ Freemium apps may:
   <img src = '/images/AppFeatures.png'>
 
 ## Results
-- ~80% of apps utilized a freemium model
+~80% of apps utilized a freemium model
 - This restricted free access to a subset of basic features
 - This also limited the duration of free features
 - Thematic analysis of 41k reviews yielded 1825 negative outcome examples across 41 apps (4.3% of the 41K reviews)
 
+Analysis of first-person experiences indicates negative outcomes result from:
+- Unclear descriptions of functionality and charging practices
+- Partial diagnoses/treatments/data
+- Impaired app performance
 
-## Implications
+
+## Potential Solutions
+- Regulators could encourage more accurate app descriptions
+- Offer criteria for ethical freemium app design
+- Our findings indicating that Restricted Functions and Limited-Term Offers generate more negative outcomes, should lead designers to exercise caution when deploying this approach
+- Continual improvement of professional app audits (e.g., ORCHA (Organization for Review of Care and Health Applications), ADDA (Anxiety and Depression Association of America), PsyberGuide, M-Health Index and Navigation Database (MIND))
+
