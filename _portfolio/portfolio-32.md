@@ -1,10 +1,10 @@
 ---
 title: "Recommender System Conversation Design"
-excerpt: "Two interactives prototype designed in Figma to guide users through a set of questions in order to present them with a personalized set of recommended mental health apps<br><br><img src='/images/CoverImages/App_Design_Cover.png' alt = 'Design Research. Recommender Conversation Design. Iterative design of a mental health app recommender system website and chatbot. Iterative, Exploratory'>"
+excerpt: "Interactive recommender prototypes designed to guide users through a set of questions to present them with a personalized set of suggested mental health apps<br><br><img src='/images/CoverImages/App_Design_Cover.png' alt = 'Design Research. Recommender Conversation Design. Iterative design of a mental health app recommender system website and chatbot. Iterative, Exploratory'>"
 collection: portfolio
 ---
 
-## Background
+## App Background
 Users of mobile apps for mental health are seeking low-cost, stigma-free solutions that are readily accessible and provide support and treatment recommendations. Apps are not a panacea but may provide help to those without other options. There is a clear need for unbiased information on MH apps and third-party systems can provide this. Current app analysis sites have limitations and finding a suitable app on these sites or the app stores can be overwhelming. Providing users with recommendations can increase the speed of decision making [1], but pior app recommender systems have required user app history to make recommendations [2,3]. Task-oriented conversational agents can interact with customers helping them find items or services more effectively [4].
 
 There are currently a small number of academic websites that conduct expert evaluations of mental health apps, but these are ineffective due to constantly evolving apps making site information obsolete as well as the costs involved in generating expert reviews. These sites allow filtering based on several factors, but do not provide personalized options on a user-by-user basis. We developed two rule-based chatbots for providing mental health app recommendations. 
