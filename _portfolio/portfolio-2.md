@@ -37,7 +37,27 @@ Chatbot Prototype
 - Users did not have a broad sense of the app space
 - Felt somewhat like a black box due to so few questions
 
+## Design Implications
 **A conversational app recommender reduces decision overload and expedites app selection.**
+
+Does providing recommendations ease decision-making? How many recommendations is sufficient?
+- Users like recommendations, but not too many
+- Between 3 and 8 is sufficient
+- Many apps + long descriptions = information overload
+
+Do users prefer searching for apps on their own or being guided?
+- There was little browsing of app stores. Users go to the app store when they know exactly what they want (e.g., Spotify, Instagram).
+- Chatbot was nice as an optional assistant
+- Recommendations are nice when users are uncertain about what app to download
+
+How trustworthy do users find third-party app recommendations?
+- Domain specificity is helpful and adds credibility
+- Chatbot was less trustworthy, somewhat of a black box
+- App store is less trusted, apps can buy reviews, promote their app
+
+
+
+
 
 
 
