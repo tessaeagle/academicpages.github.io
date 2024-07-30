@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning on User Reviews"
 excerpt: "This project involves identifying predatory behaviors in mental health apps using training data to generate a model for analyzing large datasets of user reviews.
-<br><br><img src='/images/predation.png'>"
+<br><br><img src='/images/CoverImages/ML_Cover.png'>"
 collection: portfolio
 ---
 
