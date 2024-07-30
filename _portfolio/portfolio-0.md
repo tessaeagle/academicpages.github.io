@@ -7,6 +7,7 @@ collection: portfolio
 ## Background
 
 **Project Year:** 2022 - 2024
+[Extended Abstract](https://dl.acm.org/doi/abs/10.1145/3597638.3614486)
 
 ## Objectives
 - Explore how neurodivergent individuals define and use body doubling.
@@ -32,7 +33,6 @@ First, a spectrum of **space and temporality** exists. This addresses the "liven
 <img src='images/bd_matrix.png'>
 
 
-[Extended Abstract](https://dl.acm.org/doi/abs/10.1145/3597638.3614486)
 
 ## Results
 <object data="{{ site.url }}{{ site.baseurl }}/files/Body_Doubling_Poster_ASSETS.pdf" width="1000" height="800" type="application/pdf"></object>
