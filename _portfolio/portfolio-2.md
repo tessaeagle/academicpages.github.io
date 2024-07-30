@@ -23,17 +23,20 @@ There are currently a small number of academic websites that conduct expert eval
 ### User Tasks
 Within-Subjects design (n = 16, average age = 30.1)
 - Randomized into one of three personas
+
 Think-Aloud Task Analysis
 - Play/App Store as control
 - Select an app that fits the persona with each search method (randomized order)
 - Testing two designs (read more about the design process in [this project](https://tessaeagle.github.io/portfolio/portfolio-32/))
 - Participant screen sharing
+
 Participants rated methods on:
 - Usability (UMUX scale)
 - Confidence in app selected
 - Efficiency
 - Quality of recommendations
 - Overall preference
+
 Semi-structured interview to conclude
 
 
