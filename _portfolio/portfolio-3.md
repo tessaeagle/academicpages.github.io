@@ -30,7 +30,7 @@ Freemium apps may:
 **Project Year:** 2019-2020 <br>
 [Full Paper](https://dl.acm.org/doi/10.1145/3555155)
 
-**Methods used:** Competitive Analysis, Content Analysis
+## Methods used: Competitive Analysis, Content Analysis
 - Identified 41 highly downloaded apps through keyword search on Google Play Store
 - Downloaded 41k reviews (~1000/app) left by users (Half positive/neutral reviews (3-5 stars) and half negative (1-2 stars))
 - Developed a codebook around self-described negative user outcomes resulting from freemium app design
