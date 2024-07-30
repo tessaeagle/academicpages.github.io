@@ -6,8 +6,7 @@ collection: portfolio
 
 ## Background
 Mental Health and App-Based Treatment
-- Mental health-related diagnoses are increasing over time
-- Many people with mental health diagnoses do not receive appropriate treatment
+- Mental health-related diagnoses are increasing over time, but many people with mental health diagnoses do not receive appropriate treatment
 - Mental health mobile apps have proliferated -> 12,000-20,000 estimated
 - There is a need and want for alternatives to traditional treatment
 - Informed decisions around mental health apps require external information sources
@@ -23,9 +22,11 @@ Freemium apps may:
 
 
 **Project Goal:** Examine whether common freemium payment practices in popular mental health apps have negative outcomes for users based on user review analysis <br>
-**Research Questions:**<br>
+<br>
+**Research Questions:** <br>
 - What negative user outcomes can result from mental health apps that utilize freemium payment models? <br>
 - What sub-types of mental health apps use freemium strategies, and what features are most commonly charged for? <br>
+<br>
 **Project Year:** 2019-2020 <br>
 [Full Paper](https://dl.acm.org/doi/10.1145/3555155)
 
