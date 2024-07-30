@@ -5,12 +5,25 @@ collection: portfolio
 ---
 
 ## Background
+- Mental health-related diagnoses are increasing over time. 
+- Many people with mental health diagnoses do not receive appropriate treatment
+- Mental health mobile apps have proliferated -> 12,000-20,000 estimated
+- There is a need and want for alternatives to traditional treatment
+- Informed decisions around mental health apps require external information sources
 
-There are currently a small number of academic websites that conduct expert evaluations of mental health apps, but these are ineffective due to constantly evolving apps making site information obsolete as well as the costs involved in generating expert reviews. These sites allow filtering based on several factors, but do not provide personalized options on a user-by-user basis. We developed two rule-based chatbots for providing mental health app recommendations. 
+Many apps utilize freemium payment models
+- Combination of free and paid features
+- Concerned with converting free users to paying subscribers
+Freemium apps may:
+- Offer limited functionality, pay for advanced features
+- Have limited-duration free trials
+- Place limits on free versions (e.g., usage caps)
+- Allow users to pay to improve their user experience, e.g., by removing advertisements
 
-**Project Goal:** <br>
-**Project Year:** 2019-2020
 
+**Project Goal:** Examine whether common freemium payment practices in popular mental health apps have negative outcomes for users based on user review analysis <br>
+**Project Year:** 2019-2020 <br>
+[Full Paper](https://dl.acm.org/doi/10.1145/3555155)
 
 **Methods used:** Competitive Analysis, Content Analysis
 
