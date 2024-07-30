@@ -12,7 +12,7 @@ Mental Health and App-Based Treatment
 
 Many apps utilize freemium payment models
 - Combination of free and paid features concerned with converting free users to paying subscribers
-- 
+
 Freemium apps may:
 - Offer limited functionality, pay for advanced features
 - Have limited-duration free trials
@@ -21,13 +21,13 @@ Freemium apps may:
 
 
 **Project Goal:** Examine whether common freemium payment practices in popular mental health apps have negative outcomes for users based on user review analysis <br>
-<br>
+**Project Year:** 2019-2020 <br>
+[Full Paper](https://dl.acm.org/doi/10.1145/3555155)<br>
 **Research Questions:** <br>
 - What negative user outcomes can result from mental health apps that utilize freemium payment models? <br>
 - What sub-types of mental health apps use freemium strategies, and what features are most commonly charged for? <br>
 <br>
-**Project Year:** 2019-2020 <br>
-[Full Paper](https://dl.acm.org/doi/10.1145/3555155)
+
 
 ## Methods used: Competitive Analysis, Content Analysis
 - Identified 41 highly downloaded apps through keyword search on Google Play Store
