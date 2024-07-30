@@ -4,7 +4,7 @@ excerpt: "Interactive prototype designed in Figma to guide users through a set o
 collection: portfolio
 ---
 
-## Background
+## Chatbot Background
 Users of mobile apps for mental health are seeking low-cost, stigma-free solutions that are readily accessible and provide support and treatment recommendations. Apps are not a panacea but may provide help to those without other options. There is a clear need for unbiased information on MH apps and third-party systems can provide this. Current app analysis sites have limitations and finding a suitable app on these sites or the app stores can be overwhelming. Providing users with recommendations can increase the speed of decision making [1], but pior app recommender systems have required user app history to make recommendations [2,3]. Task-oriented conversational agents can interact with customers helping them find items or services more effectively [4].
 
 There are currently a small number of academic websites that conduct expert evaluations of mental health apps, but these are ineffective due to constantly evolving apps making site information obsolete as well as the costs involved in generating expert reviews. These sites allow filtering based on several factors, but do not provide personalized options on a user-by-user basis. We developed two rule-based chatbots for providing mental health app recommendations. 
@@ -23,7 +23,7 @@ Based upon our pilot interviews and app store analysis, we decided on two models
 
 <img src='/images/chatbotConvo.png'>
 
-## Background
+## Website Background
 As part of a larger project exploring how people search for apps and how to improve their experience, we designed two systems to provide users with personalized suggestions. To test another method of app recommendation (aside from the [chatbot project below](https://tessaeagle.github.io/portfolio/portfolio-3/)), we also prototyped a more traditional website interface that acts as an alternative to the traditional app stores. We implemented a small set of initial questions to filter apps for presentation to the user. Users are then able to see how well apps match their wants, filter based on features, and view a subset of relevant user reviews. 
 
 **Project Goal:** creating a better search experience than the App/Play Stores <br>
