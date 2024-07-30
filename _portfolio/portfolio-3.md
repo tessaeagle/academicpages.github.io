@@ -5,7 +5,8 @@ collection: portfolio
 ---
 
 ## Background
-- Mental health-related diagnoses are increasing over time. 
+Mental Health and App-Based Treatment
+- Mental health-related diagnoses are increasing over time
 - Many people with mental health diagnoses do not receive appropriate treatment
 - Mental health mobile apps have proliferated -> 12,000-20,000 estimated
 - There is a need and want for alternatives to traditional treatment
@@ -22,11 +23,23 @@ Freemium apps may:
 
 
 **Project Goal:** Examine whether common freemium payment practices in popular mental health apps have negative outcomes for users based on user review analysis <br>
+**Research Questions:**<br>
+- What negative user outcomes can result from mental health apps that utilize freemium payment models? <br>
+- What sub-types of mental health apps use freemium strategies, and what features are most commonly charged for? <br>
 **Project Year:** 2019-2020 <br>
 [Full Paper](https://dl.acm.org/doi/10.1145/3555155)
 
 **Methods used:** Competitive Analysis, Content Analysis
+- Identified 41 highly downloaded apps through keyword search on Google Play Store
+- Downloaded 41k reviews (~1000/app) left by users (Half positive/neutral reviews (3-5 stars) and half negative (1-2 stars))
+- Developed a codebook around self-described negative user outcomes resulting from freemium app design
+- Reviews coded for negative themes after consensus process
 
 ## Results
+- ~80% of apps utilized a freemium model
+- This restricted free access to a subset of basic features
+- This also limited the duration of free features
+- Thematic analysis of 41k reviews yielded 1825 negative outcome examples across 41 apps (4.3% of the 41K reviews)
+
 
 ## Implications
