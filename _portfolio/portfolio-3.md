@@ -35,6 +35,8 @@ Freemium apps may:
 - Developed a codebook around self-described negative user outcomes resulting from freemium app design
 - Reviews coded for negative themes after consensus process
 
+  <img src = '/images/AppFeatures.png'>
+
 ## Results
 - ~80% of apps utilized a freemium model
 - This restricted free access to a subset of basic features
