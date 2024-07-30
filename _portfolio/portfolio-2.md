@@ -18,26 +18,14 @@ There are currently a small number of academic websites that conduct expert eval
 - How trustworthy do users find third-party app recommendations?
 - What information do users want when making download decisions?
 
-**Methods Used:** User Personas (design + testing), Competitive Analysis, Task Analysis, Interviews
+**Methods Used:** User Personas (design + testing), Competitive Analysis, Task Analysis, Interviews, Moderated Usability Test
+- Within-Subjects design (n = 16, average age = 30.1) where participants were randomized into one of three personas to find a suitable app for. 
+- Think-Aloud Task Analysis. Participants attempted to select an app that fits the persona with each of three search methods: chatbot recommender prototype, website recommender prototype (read more about the design process in [this project](https://tessaeagle.github.io/portfolio/portfolio-32/)), and the App Store (control).
+- Moderated usability test with participant screen sharing. 
+- Participants rated methods on: Usability (UMUX scale), Confidence in app selected, Search method efficiency, Quality of recommendations, Overall preference
+- Semi-structured interview to conclude
 
-### User Tasks
-Within-Subjects design (n = 16, average age = 30.1)
-- Randomized into one of three personas
-
-Think-Aloud Task Analysis
-- Play/App Store as control
-- Select an app that fits the persona with each search method (randomized order)
-- Testing two designs (read more about the design process in [this project](https://tessaeagle.github.io/portfolio/portfolio-32/))
-- Participant screen sharing
-
-Participants rated methods on:
-- Usability (UMUX scale)
-- Confidence in app selected
-- Efficiency
-- Quality of recommendations
-- Overall preference
-
-Semi-structured interview to conclude
+**Task Instructions:** Imagine you are a college student and have lately been experiencing an increase in stress and pressure. You are juggling numerous responsibilities and are struggling to manage feelings of overwhelm while dealing with remote school and your impending graduation. Your feelings of anxiety about your grades and the future have made it difficult for you to engage in self-care activities or stress relief. Recently, your conversations with friends revolve around all of your stress and financial concerns rather than fun and relaxed topics. Please find an app that could be helpful for you to cope with these feelings.
 
 
 
