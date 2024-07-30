@@ -1,6 +1,6 @@
 ---
 title: "Comparing App Recommendation Systems"
-excerpt: "Interactive prototype designed in Figma to guide users through a set of questions in order to present them with a personalized set of recommended mental health apps<br><br><img src='/images/CoverImages/App_Eval_Cover.png' alt = 'Evaluative Research. Comparing App Recommendation Systems. Usability testing of three methods for app searching. Usability Testing, Personas, Mixed-Methods'>"
+excerpt: "Interactive recommender prototypes designed to guide users through a set of questions to present them with a personalized set of suggested mental health apps<br><br><img src='/images/CoverImages/App_Eval_Cover.png' alt = 'Evaluative Research. Comparing App Recommendation Systems. Usability testing of three methods for app searching. Usability Testing, Personas, Mixed-Methods'>"
 collection: portfolio
 ---
 
