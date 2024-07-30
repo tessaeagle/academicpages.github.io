@@ -26,6 +26,10 @@ collection: portfolio
 - Form of accountability (n = 23) and helps one stay on task (n = 21)
 
 ## Mapping Body Doubling
+We propose that body doubling is a spectrum of (primarily) two things --  Space/Time and Mutuality (see below figure). This model reflects the flexibility we saw participants utilizing.
+First, a spectrum of **space and temporality** exists. This addresses the "liveness" of the body double. The space-time spectrum ranges from *happening in real-time, in a shared space* to *pre-recorded in a different space*. Second, there are differing levels of **mutuality and awareness** on the part of the entity acting as the body double. This spectrum ranges from *someone who knows what you are doing and you can be accountable to*, to *someone sharing a space but unaware of their role as a body double*. 
+
+<img src='images/bd_matrix.png'>
 
 
 [Extended Abstract](https://dl.acm.org/doi/abs/10.1145/3597638.3614486)
