@@ -6,14 +6,12 @@ collection: portfolio
 
 ## Background
 
-**Project Year:** 2022 - present
+**Project Year:** 2022 - 2024
 
-## Objective
-How do neurodivergent individuals define and use body doubling?
-
-**Goals:**
-- Establishing body doubling as an adaptive strategy for task completion/initiation for ND individuals
-- Get a standard, community-defined definition published in peer-reviewed research
+## Objectives
+- Explore how neurodivergent individuals define and use body doubling.
+- Establish body doubling as an adaptive strategy for task completion/initiation for ND individuals
+- Publish a community-driven definition of a colloquial phenomenon
 
 ## Methods
 - Survey of 220 neurodivergent participants
@@ -26,6 +24,9 @@ How do neurodivergent individuals define and use body doubling?
 - To accomplish a task (n = 65) / be productive (n = 38)
 - Tasks may be different (n = 65) or  similar (n = 13)
 - Form of accountability (n = 23) and helps one stay on task (n = 21)
+
+## Mapping Body Doubling
+
 
 [Extended Abstract](https://dl.acm.org/doi/abs/10.1145/3597638.3614486)
 
