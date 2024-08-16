@@ -11,7 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Contents
 1. [Conference Papers](#onf)
 2. [Journal Papers](#journal)
 3. [Public Scholarship](#pub)
