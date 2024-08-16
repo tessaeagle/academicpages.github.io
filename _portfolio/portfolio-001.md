@@ -4,12 +4,7 @@ excerpt: " <br><br><img src='/images/CoverImages/soc_eco.png' alt = 'Exploratory
 collection: portfolio
 ---
 
-## Background
-
 **Project Year:** 2023 - 2024
-
-## Objective and Motivation
-
 
 ## Research Questions
 - How are social media communities empowering people with ADHD?
