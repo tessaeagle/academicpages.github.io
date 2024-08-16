@@ -11,11 +11,30 @@ collection: portfolio
 ## Objective and Motivation
 
 
-## Research Question
+## Research Questions
+- How are social media communities empowering people with ADHD?
+- What gaps are online communities filling that are not being met by healthcare systems?
+- What role does the ADHD social media community play in diagnosis and how is self-diagnosis perceived within these communities?
 
 ## Methods
+- Semi-structured interviews
+- Interpretative Phenomenological Analysis
 
-## Participants
+### Content Creators
+- 14 social media content creators (5 full-time)
+- All identified as ADHD
+- 10 female 3 male, 1 non-binary
+- US, UK, Canada, Spain
+
+### Clinicians
+- 13 clinicians who work with ADHD adults
+  - 7 Clinical Psychology PhDs
+  - 2 Clinical Psychology PsyDs
+  - 4 LICSW
+  - 1 LPCC, and 1 LMFT 
+- 9 female, 2 non-binary, 1 gender fluid, and 1 male
+- 12 identified as neurodivergent
+
 
 ## Main Themes
 
