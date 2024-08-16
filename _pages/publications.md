@@ -15,11 +15,11 @@ author_profile: true
 ### Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds
 Ringland, K.E., Carstensdottir, E., Tung, M., Seetharaman, B., **Eagle, T.**, Baltaxe-Admony, L.B., Wetherwax, K. “Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds”. ACM Conference on Computer Supported Cooperative Work. 2024.
 
-### ["Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok] (https://dl.acm.org/doi/abs/10.1145/3613904.3642177)
-McDonnell, E.J., **Eagle, T.**, Sinlapanuntakul, P., Moon, S.H., Froehlich, J.E., Ringland, K.E., Findlater, L. 2024. “*Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok*. Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA [(Full Paper)](https://dl.acm.org/doi/abs/10.1145/3613904.3642177)
+### ["Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok](https://dl.acm.org/doi/abs/10.1145/3613904.3642177)
+McDonnell, E.J., **Eagle, T.**, Sinlapanuntakul, P., Moon, S.H., Froehlich, J.E., Ringland, K.E., Findlater, L. 2024. “*Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok*. Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM, New York, NY, USA
 
 ### ["You Can’t Possibly Have ADHD": Exploring Validation and Tensions around Diagnosis within Un-bounded ADHD Social Media Communities](https://doi.org/10.1145/3597638.3608400)
-**Eagle, T.** and Ringland, K.E. 2023. *"You Can’t Possibly Have ADHD": Exploring Validation and Tensions around Diagnosis within Un-bounded ADHD Social Media Communities*. SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023, New York, NY, USA. 17 pages. [(Full Paper)](https://doi.org/10.1145/3597638.3608400)
+**Eagle, T.** and Ringland, K.E. 2023. *"You Can’t Possibly Have ADHD": Exploring Validation and Tensions around Diagnosis within Un-bounded ADHD Social Media Communities*. SIGACCESS Conference on Computers and Accessibility (ASSETS ’23), October 22–25, 2023, New York, NY, USA. 17 pages.
 
 ### “Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps
 **Eagle T.**, Mehrotra, A., Sharma, A., Zuniga, A., Whittaker S.*“Money Doesn't Buy You Happiness”: Exploring Financial Predation in Freemium Mental Health Apps*. ACM Conference on Computer Supported Cooperative Work and Social Computing. 2022. [(Full Paper)](https://dl.acm.org/doi/10.1145/3555155) [(Conference Presentation)](https://www.youtube.com/watch?v=q347mu3n8ok&ab_channel=ACMSIGCHI)
