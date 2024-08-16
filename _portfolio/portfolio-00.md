@@ -1,6 +1,6 @@
 ---
 title: "Digital Ethnography of ADHD Social Media"
-excerpt: "ADHD has been sensationalized by the media. 'Everyone has it now' and yet it remains underdiagnosed. Social media is actually providing a service to many who have gone undiagnosed their entire lives, wondering why they feel different. A different take on social media and ADHD. <br><br><img src='/images/CoverImages/Ethnog_Cover.png' alt = 'Exploratory Research. Ethnography of ADHD Social Media. Conceptualizing the Unbounded Social Media Community for Identity Discovery. Ethnography, Community-Based, Grounded Theory, Qualitative'>"
+excerpt: "ADHD has been sensationalized by the media. 'Everyone has it now' and yet it remains underdiagnosed. Social media is actually providing a service to many who have gone undiagnosed their entire lives, wondering why they feel different. A different take on social media and ADHD. <br><br><img src='/images/CoverImages/adhd_ohc.png' alt = 'Exploratory Research. Ethnography of ADHD Social Media. Conceptualizing the Unbounded Social Media Community for Identity Discovery. Ethnography, Community-Based, Grounded Theory, Qualitative'>"
 collection: portfolio
 ---
 
