@@ -1,6 +1,6 @@
 ---
 title: "ADHD Content Creator and Clinician Interviews"
-excerpt: " <br><br><img src='/images/CoverImages/ADHD_Ints_Cover.png' alt = 'Exploratory Research, ADHD Content Creator and Clinician Interviews, Expert opinions on social media and ADHD stigma. Community-Based, Interviews, Qualitative'>"
+excerpt: " <br><br><img src='/images/CoverImages/soc_eco.png' alt = 'Exploratory Research, ADHD Content Creator and Clinician Interviews, Expert opinions on social media and ADHD stigma. Community-Based, Interviews, Qualitative'>"
 collection: portfolio
 ---
 
