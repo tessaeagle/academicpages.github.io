@@ -12,12 +12,12 @@ author_profile: true
 {% include base_path %}
 
 # Contents
-1. [Example](## Conference Papers)
+1. [Conference Papers](#onf)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
    
-## Conference Papers
+## Conference Papers  <a id="conf"></a>
 ### Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds
 Ringland, K.E., Carstensdottir, E., Tung, M., Seetharaman, B., **Eagle, T.**, Baltaxe-Admony, L.B., Wetherwax, K. “Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds”. ACM Conference on Computer Supported Cooperative Work. 2024.
 
