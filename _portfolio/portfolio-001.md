@@ -28,10 +28,7 @@ collection: portfolio
 
 ### Clinicians
 - 13 clinicians who work with ADHD adults
-  - 7 Clinical Psychology PhDs
-  - 2 Clinical Psychology PsyDs
-  - 4 LICSW
-  - 1 LPCC, and 1 LMFT 
+  - 7 Clinical Psychology PhDs, 2 Clinical Psychology PsyDs, 4 LICSW, 1 LPCC, and 1 LMFT 
 - 9 female, 2 non-binary, 1 gender fluid, and 1 male
 - 12 identified as neurodivergent
 
