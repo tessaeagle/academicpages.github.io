@@ -3,13 +3,10 @@ title: "Product Unboxing Behaviors"
 excerpt: "Usability testing of a physical and digital product experience aimed at improving work productivity. <br><br><img src='/images/CoverImages/Unboxing_Cover.png' alt = 'Evaluative Research. Product Unboxing Behaviors. Evaluating new user product unboxing experience and first-time use. Usability Testing, Behavioral, Mixed-Methods'>"
 collection: portfolio
 ---
+**Project Year:** 2023 <br>
 
 ## Background
 Usability testing of a physical and digital product experience aimed at improving work productivity.
-
-**Project Year:** 2023
-
-## Objective and Motivation
 
 
 ## Research Questions
@@ -20,8 +17,9 @@ Usability testing of a physical and digital product experience aimed at improvin
 ## Methods
 **Moderated Usability Testing, Interviewing, Task Analysis**
 - 17 participants (9 women, 8 men) from the SF Bay Area in our target audience
-- Pre-task interview, structured task, follow-up interview
-- **Two groups:** One with no guidance who were left to self-explore, one with guided introduction to product features
+- Recruitment via Respondent.io and UserInterviews
+- Pre-task interview, structured task, post-task interview and exploration of product-market fit
+- **Two groups:** One with no guidance who were left to self-explore, one with a guided introduction to product features
 
 
 ## Main Themes
