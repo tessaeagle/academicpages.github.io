@@ -13,6 +13,7 @@ collection: portfolio
 
 ## Methods
 - Semi-structured interviews
+- Recruitment via purposive and snowball sampling
 - Interpretative Phenomenological Analysis
 
 ### Content Creators
