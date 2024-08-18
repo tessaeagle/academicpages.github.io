@@ -6,7 +6,7 @@ collection: portfolio
 **Project Year:** 2023 <br>
 
 ## Background
-Usability testing of a physical and digital product experience aimed at improving work productivity.
+Usability testing of a mixed-reality product experience aimed at improving work productivity.
 
 
 ## Research Questions
