@@ -25,6 +25,7 @@ Usability testing of a mixed-reality product experience aimed at improving work 
 ## Main Insights
 - Participants needed more visual guidance on opening and positioning the device
 - Further instructions were needed for a few key features
+  - Group receiving no instructions found most key features but missed one major device feature
 - Participants wanted customization options before a walkthrough of basic settings
 
 
