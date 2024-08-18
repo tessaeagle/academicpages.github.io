@@ -3,8 +3,7 @@ title: "Mental Health App Content Analysis"
 excerpt: Content analysis of 41 mental health apps to explore the effects of freemium payment models on user experience<br><br><img src='/images/CoverImages/MHapps_Cover.png' alt = 'Evaluative Research. Mental Health App Content Analysis. Exploring common app features and pricing strategies. Quantitative, Competitive Analysis, Content Analysis'>"
 collection: portfolio
 ---
-**Project Year:** 2019-2020 <br>
-[Conference Paper](https://dl.acm.org/doi/10.1145/3555155)
+**Project Year:** 2019-2020, [Conference Paper](https://dl.acm.org/doi/10.1145/3555155) <br>
 
 ## Background
 Mental Health and App-Based Treatment
