@@ -22,8 +22,9 @@ Usability testing of a mixed-reality product experience aimed at improving work 
 - Between-Subjects Evaluation of onboarding process
   - **Two groups:** One with no guidance who were left to self-explore, one with a guided introduction to product features
 
+## Main Insights
+- Participants needed more visual guidance on opening and positioning the device
+- Further instructions were needed for a few key features
+- Participants wanted customization options before a walkthrough of basic settings
 
-## Main Themes
 
-
-## Outcomes
