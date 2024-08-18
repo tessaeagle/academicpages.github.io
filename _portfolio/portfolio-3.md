@@ -3,6 +3,8 @@ title: "Mental Health App Content Analysis"
 excerpt: Content analysis of 41 mental health apps to explore the effects of freemium payment models on user experience<br><br><img src='/images/CoverImages/MHapps_Cover.png' alt = 'Evaluative Research. Mental Health App Content Analysis. Exploring common app features and pricing strategies. Quantitative, Competitive Analysis, Content Analysis'>"
 collection: portfolio
 ---
+**Project Year:** 2019-2020 <br>
+[Conference Paper](https://dl.acm.org/doi/10.1145/3555155)
 
 ## Background
 Mental Health and App-Based Treatment
@@ -18,8 +20,6 @@ Freemium apps may:
 - Have limited-duration free trials
 - Place limits on free versions (e.g., usage caps)
 - Allow users to pay to improve their user experience, e.g., by removing advertisements
-
-**Project Year:** 2019-2020 <br>
 
 **Project Goal:** Examine whether common freemium payment practices in popular mental health apps have negative outcomes for users based on user review analysis <br>
 
