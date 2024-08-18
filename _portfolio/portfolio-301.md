@@ -19,7 +19,8 @@ Usability testing of a physical and digital product experience aimed at improvin
 - 17 participants (9 women, 8 men) from the SF Bay Area in our target audience
 - Recruitment via Respondent.io and UserInterviews
 - Pre-task interview, structured task, post-task interview and exploration of product-market fit
-- **Two groups:** One with no guidance who were left to self-explore, one with a guided introduction to product features
+- Between-Subjects Evaluation of onboarding process
+  - **Two groups:** One with no guidance who were left to self-explore, one with a guided introduction to product features
 
 
 ## Main Themes
