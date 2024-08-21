@@ -34,7 +34,8 @@ McDonnell, E.J., **Eagle, T.**, Sinlapanuntakul, P., Moon, S.H., Froehlich, J.E.
 Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022.
 
 ## Journal Papers <a id="journal"></a>
-### [Accepted, Forthcoming] **Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "It was something I naturally found worked and heard about later': An Investigation of Body Doubling with Neurodivergent Participants. ACM Transactions on Accessible Computing. 2024. DOI:  http://doi.org/10.1145/3689648.
+### [Accepted, Forthcoming]. "It was something I naturally found worked and heard about later': An Investigation of Body Doubling with Neurodivergent Participants.
+**Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "It was something I naturally found worked and heard about later': An Investigation of Body Doubling with Neurodivergent Participants. ACM Transactions on Accessible Computing. 2024. DOI:  http://doi.org/10.1145/3689648.
 
 ### [“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression](https://dl.acm.org/doi/10.1145/3488057)
 **Eagle T.**, Blau C., Bales S., Desai N., Li V., Whittaker S. *“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression"*. ACM Transactions on Interactive Intelligent Systems. 2022. 
