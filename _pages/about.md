@@ -11,7 +11,7 @@ redirect_from:
 I am a mixed-methods UX researcher with 6+ years of tech experience proven in translating user insights into actionable product improvements via quantitative and
 qualitative research. I have expertise in driving user-centered design by deeply understanding communities and their needs. I thrive on tackling big and meaningful questions in the health tech space and am passionate about supporting well-being and inclusive technology experiences. I recently completed my PhD in Human-Computer Interaction, researching social media, digital health, neurodiversity, and accessibility. My dissertation used primarily qualitative methods to study online support systems for neurodivergent individuals.
 
-- 6+ years in the UX space
+- 6+ years in the generative and evaluative UX space
 - 10+ years as a researcher
 - 4+ years in clinical healthcare and biotech
 - 15+ peer-reviewed publications in the digital health and social media space
