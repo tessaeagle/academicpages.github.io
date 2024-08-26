@@ -11,12 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-1. [Conference Papers](#onf)
-2. [Journal Papers](#journal)
-3. [Public Scholarship](#pub)
-4. [Workshop Papers](#workshops)
-5. [Extended Abstracts](#ea)
-   
+1. [Journal Papers](#journal)
+2. [Conference Papers](#conf)
+4. [Public Scholarship](#pub)
+5. [Workshop Papers](#workshops)
+6. [Extended Abstracts](#ea)
+
+
+## Journal Papers <a id="journal"></a>
+### ["It was something I naturally found worked and heard about later': An Investigation of Body Doubling with Neurodivergent Participants.](https://dl.acm.org/doi/10.1145/3689648)
+**Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "It was something I naturally found worked and heard about later': An Investigation of Body Doubling with Neurodivergent Participants. ACM Transactions on Accessible Computing. 2024.
+
+### [“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression](https://dl.acm.org/doi/10.1145/3488057)
+**Eagle T.**, Blau C., Bales S., Desai N., Li V., Whittaker S. *“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression"*. ACM Transactions on Interactive Intelligent Systems. 2022. 
+
+### [Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis](https://doi.org/10.1016/j.msard.2017.10.002)
+**Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017.
+
 ## Conference Papers  <a id="conf"></a>
 ### Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds
 Ringland, K.E., Carstensdottir, E., Tung, M., Seetharaman, B., **Eagle, T.**, Baltaxe-Admony, L.B., Wetherwax, K. “Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds”. ACM Conference on Computer Supported Cooperative Work. 2024.
@@ -32,16 +43,6 @@ McDonnell, E.J., **Eagle, T.**, Sinlapanuntakul, P., Moon, S.H., Froehlich, J.E.
 
 ### [ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities](https://doi.org/10.1145/3491102.3517442)
 Ringland, K.E., Bhattacharya, A., Weatherwax, K., **Eagle, T.**, Wolf, C.T. *ARMY's Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities*. ACM Conference on Human Factors in Computing Systems. 2022.
-
-## Journal Papers <a id="journal"></a>
-### [Accepted, Forthcoming]. "It was something I naturally found worked and heard about later': An Investigation of Body Doubling with Neurodivergent Participants.
-**Eagle, T.**, Baltaxe-Admony, L.B., Taber, L., Ringland, K.E. "It was something I naturally found worked and heard about later': An Investigation of Body Doubling with Neurodivergent Participants. ACM Transactions on Accessible Computing. 2024. DOI:  http://doi.org/10.1145/3689648.
-
-### [“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression](https://dl.acm.org/doi/10.1145/3488057)
-**Eagle T.**, Blau C., Bales S., Desai N., Li V., Whittaker S. *“I don’t know what you mean by ‘I am anxious’”: A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression"*. ACM Transactions on Interactive Intelligent Systems. 2022. 
-
-### [Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis](https://doi.org/10.1016/j.msard.2017.10.002)
-**Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017.
 
 ## Public Scholarship <a id="pub"></a>
 ### [Challenging Ableism: A Critical Turn Toward Disability Justice in HCI](https://dl.acm.org/doi/abs/10.1145/3665602)
