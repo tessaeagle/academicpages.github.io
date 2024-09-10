@@ -32,7 +32,9 @@ collection: portfolio
 ## Results
 
 > P1: It [Woebot] seemed to genuinely care about how I was feeling, it was patient and respected my space (if I wanted it), and wanted me to feel better <br>
+<br>
 > P2: [Wysa] Repetitive not only in the activities, but also the CBT theories - every time, it says why the thought is unhelpful and how I can fix that by using positive thinking. There is no variation in its education <br>
+<br>
 > P3: Wysa is obviously unpolished. Woebot's conversations felt fluid, restricted, and clear. Unlike that, Wysa's conversations can be disrupted by bugs, innocuous treatment and interaction.  <br>
 
 
