@@ -52,6 +52,9 @@ Glitches
 - Repeated queries/circular convos
 - Lack of timely response
 
+<img src='/images/wysa_errors.png'>
+<img src='/images/woebot_errors.png'>
+
 
 ### Source Credibility Measure
 - Each subset score out of 42 possible, higher = better
