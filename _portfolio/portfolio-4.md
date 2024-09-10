@@ -37,8 +37,8 @@ collection: portfolio
 - Each subset score out of 42 possible, higher = better
 
 |         |                 Wysa      |||            | Woebot |       |
-|---------|------------|:------:|-------|------------|:------:|-------|
 |         | Competence | Caring | Trust | Competence | Caring | Trust |
+|---------|------------|:------:|-------|------------|:------:|-------|
 |    P1   |     21     |   21   |   29  |     26     |   36   |   34  |
 |    P2   |     19     |   31   |   29  |     33     |   36   |   34  |
 |    P3   |     24     |   23   |   25  |     25     |   31   |   32  |
