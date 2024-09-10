@@ -31,8 +31,13 @@ collection: portfolio
 
 ## Results
 
+> P1: It [Woebot] seemed to genuinely care about how I was feeling, it was patient and respected my space (if I wanted it), and wanted me to feel better 
+> P2: [Wysa] Repetitive not only in the activities, but also the CBT theories - every time, it says why the thought is unhelpful and how I can fix that by using positive thinking. There is no variation in its education
+> P3: Wysa is obviously unpolished. Woebot's conversations felt fluid, restricted, and clear. Unlike that, Wysa's conversations can be disrupted by bugs, innocuous treatment and interaction. 
+
+
 ### Types of Breakdowns
-Conversation Flow
+**Conversation Flow**
 - Offering strange presets
 - Abrupt shifts in topics
 - Ill-timed Jokes
@@ -40,14 +45,14 @@ Conversation Flow
 - Providing two options that are both yeses
 - Lack of variety - must fit into the closest option
 
-Misunderstandings/Inability to respond
+**Misunderstandings/Inability to respond**
 - Lack of acknowledgment
 - Inability to respond to emojis
 - Inability to understand free text
 - Continuing to an activity a user declined
 - Perceiving positive emotions as negative
 
-Glitches
+**Glitches**
 - Typos
 - Repeated queries/circular convos
 - Lack of timely response
