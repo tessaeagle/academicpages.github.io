@@ -7,7 +7,7 @@ collection: portfolio
 
 ## Background and Motivation
 - Mental health apps are increasingly prevalent
-- > 12,000 mental health apps available (Schueller et al., 2019)
+- >12,000 mental health apps available (Schueller et al., 2019)
 - Apps and content around mental health are largely unregulated (Neary and Schueller, 2018)
 - Few apps backed up by research/RCTs/efficacy data
 - Chatbots are increasingly utilized in this domain (e.g., Woebot, Wysa, Replika)
@@ -21,19 +21,15 @@ collection: portfolio
 
 ## Methods used: Diary Study, Standardized Scales
 - Compared two mental health chatbot apps - Wysa and Woebot
-- Diary Study - Participants used each app and kept a log of:
-  - Duration of conversations
-  - Communication breakdowns -> **Independent Variable**
-  - Empathetic expressions or chatbot self-referencing
-- Pre- and post- study surveys containing;
+- Diary Study - Participants used each app and kept a log of: Duration of conversations, Communication breakdowns experienced, Empathetic expressions or chatbot self-referencing
+- Pre- and post- study surveys containing:
   - Source Credibility Measure (trust and competence)
   - Working Alliance Inventory	
 - Dependent Variables: Measures of Trust, Competence, and Working Alliance
 - Independent Variable: Number of communication breakdowns/errors
 
-## Participants
-- 3 participants
-- 10 days using each of the two apps
+### Participants
+- 3 participants, 10 days using each of the two apps
 
 ## Results
 
