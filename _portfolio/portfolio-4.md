@@ -35,13 +35,17 @@ collection: portfolio
 
 ### Source Credibility Measure
 - Each subset score out of 42 possible, higher = better
-
-|         |            |    Wysa |      |            | Woebot |       |
-|    -    | Competence | Caring | Trust | Competence | Caring | Trust |
-|---------|------------|:------:|-------|------------|:------:|-------|
-|    P1   |     21     |   21   |   29  |     26     |   36   |   34  |
-|    P2   |     19     |   31   |   29  |     33     |   36   |   34  |
-|    P3   |     24     |   23   |   25  |     25     |   31   |   32  |
-| Average |    21.3    |   25   |  27.7 |     28     |  34.3  |  33.3 |
-
-
+|                          | **Wysa** | **Woebot** |
+|--------------------------|:--------:|:----------:|
+| **    Competence (avg)** | 21.3     | 28         |
+|            P1            |    21    |     26     |
+|            P2            |    19    |     33     |
+|            P3            |    24    |     25     |
+| **    Caring (avg)**     | 25       | 34.3       |
+|            P1            |    21    |     36     |
+|            P2            |    31    |     36     |
+|            P3            |    23    |     31     |
+| **    Trust (avg)**      | 27.7     | 33.3       |
+|            P1            |    29    |      3     |
+|            P2            |    29    |     34     |
+|            P3            |    25    |     32     |
