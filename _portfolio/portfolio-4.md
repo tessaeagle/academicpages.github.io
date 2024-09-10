@@ -6,10 +6,8 @@ collection: portfolio
 **Project Year:** 2020 <br>
 
 ## Background and Motivation
-- Mental health apps are increasingly prevalent
-- 12,000+ mental health apps available (Schueller et al., 2019)
-- Apps and content around mental health are largely unregulated (Neary and Schueller, 2018)
-- Few apps backed up by research/RCTs/efficacy data
+- Mental health apps are increasingly prevalent, 12,000+ mental health apps available (Schueller et al., 2019)
+- Apps and content around mental health are largely unregulated (Neary and Schueller, 2018), few apps backed up by research/RCTs/efficacy data
 - Chatbots are increasingly utilized in this domain (e.g., Woebot, Wysa, Replika)
 - Breakdowns in communication decrease trust in chatbots (Ashktorab et al., 2019)
 
@@ -32,6 +30,28 @@ collection: portfolio
 - 3 participants, 10 days using each of the two apps
 
 ## Results
+
+### Types of Breakdowns
+Conversation Flow
+- Offering strange presets
+- Abrupt shifts in topics
+- Ill-timed Jokes
+- Illusion of choice 
+- Providing two options that are both yeses
+- Lack of variety - must fit into the closest option
+
+Misunderstandings/Inability to respond
+- Lack of acknowledgment
+- Inability to respond to emojis
+- Inability to understand free text
+- Continuing to an activity a user declined
+- Perceiving positive emotions as negative
+
+Glitches
+- Typos
+- Repeated queries/circular convos
+- Lack of timely response
+
 
 ### Source Credibility Measure
 - Each subset score out of 42 possible, higher = better
