@@ -65,7 +65,7 @@ collection: portfolio
 <img src='/images/woebot_errors.png'>
 
 
-### Working Alliance Inventory
+### Working Alliance Inventory (WAI)
 - Score out of 60 possible, higher = greater WA
 
 |         | **Wysa** | **Woebot** |
@@ -74,9 +74,8 @@ collection: portfolio
 |    P2   |    29    |     44     |
 |    P3   |    20    |     28     |
 | Average |   24.7   |    35.7    |
-|         |          |            |
 
-### Source Credibility Measure
+### Source Credibility Measure (SCM)
 - Each subset score out of 42 possible, higher = better
 
 |                      | **Wysa** | **Woebot** |
