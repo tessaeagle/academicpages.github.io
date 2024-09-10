@@ -7,7 +7,7 @@ collection: portfolio
 
 ## Background and Motivation
 - Mental health apps are increasingly prevalent
-- >12,000 mental health apps available (Schueller et al., 2019)
+- 12,000+ mental health apps available (Schueller et al., 2019)
 - Apps and content around mental health are largely unregulated (Neary and Schueller, 2018)
 - Few apps backed up by research/RCTs/efficacy data
 - Chatbots are increasingly utilized in this domain (e.g., Woebot, Wysa, Replika)
