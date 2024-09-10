@@ -1,6 +1,6 @@
 ---
 title: "Trust in Chatbots and Taxonomy of Breakdowns"
-excerpt: xxx<br><br><img src='/images/CoverImages/MHapps_Cover.png' alt = 'Evaluative Research. Mental Health App Content Analysis. Exploring common app features and pricing strategies. Quantitative, Competitive Analysis, Content Analysis'>"
+excerpt: xxx<br><br><img src='/images/woebot_errors.png' alt = ''>"
 collection: portfolio
 ---
 **Project Year:** 2020 <br>
