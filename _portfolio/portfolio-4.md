@@ -33,8 +33,10 @@ collection: portfolio
 
 ## Results
 
-### Source Credibility Measure Scores
-|         |            |  Wysa  |       |            | Woebot |       |
+### Source Credibility Measure
+- Each subset score out of 42 possible, higher = better
+
+|         |               Wysa          |              Woebot         |
 |---------|------------|:------:|-------|------------|:------:|-------|
 |         | Competence | Caring | Trust | Competence | Caring | Trust |
 |    P1   |     21     |   21   |   29  |     26     |   36   |   34  |
