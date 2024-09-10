@@ -89,3 +89,21 @@ collection: portfolio
 |          P1          |    29    |      3     |
 |          P2          |    29    |     34     |
 |          P3          |    25    |     32     |
+
+## Discussion
+**Woebot**
+- Chatbot is the only feature
+- Higher SCM + WAI scores
+- Offers few free-text responses - less room for misunderstanding
+- Still saw breakdowns though
+- Woebot asks for feedback on individual messages, and at the end of each conversation
+
+**Wysa**
+- Chatbot is not the main feature
+- Solely free-text responses opens the app up to breakdowns
+- May expect more from free response as it’s more advanced 
+- Offers only negative mood options - difficult to discuss positive days
+- Users felt like they had to carry the conversation 
+- Felt like more of a machine, whereas Woebot felt like more of a friend 
+
+
