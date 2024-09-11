@@ -31,6 +31,8 @@ collection: portfolio
 
 ## Results
 
+<img src = '/images/chatbot_breakdowns.png' alt = ' '>
+
 > P1: It [Woebot] seemed to genuinely care about how I was feeling, it was patient and respected my space (if I wanted it), and wanted me to feel better <br>
 <br>
 
