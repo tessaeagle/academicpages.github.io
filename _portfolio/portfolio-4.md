@@ -53,6 +53,7 @@ collection: portfolio
 |      Providing two options that are both yeses     |  Perceiving positive emotions as negative  |                                  |
 | Lack of variety - must fit into the closest option |                                            |                                  |
 
+#### Examples of Conversation Breakdowns
 <img src='/images/wysa_errors.png'>
 <img src='/images/woebot_errors.png'>
 
