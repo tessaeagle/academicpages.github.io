@@ -1,6 +1,6 @@
 ---
 title: "Trust in Chatbots and Taxonomy of Breakdowns"
-excerpt: xxx<br><br><img src='/images/chatbot_breakdowns.png' alt = ''>"
+excerpt: This project evaluated two chatbot apps for mental health with three participants over the course of ten days. The chatbot with fewer communication breakdowns led to higher scores on Trust and Competence as well as stronger feelings of Working Alliance.<br><br><img src='/images/chatbot_breakdowns.png' alt = ''>"
 collection: portfolio
 ---
 **Project Year:** 2020 <br>
@@ -105,7 +105,7 @@ collection: portfolio
 
 **Wysa**
 - Chatbot is not the main feature
-- Solely free-text responses opens the app up to breakdowns
+- Solely free-text responses open the app up to breakdowns
 - May expect more from free response as it’s more advanced 
 - Offers only negative mood options - difficult to discuss positive days
 - Users felt like they had to carry the conversation 
