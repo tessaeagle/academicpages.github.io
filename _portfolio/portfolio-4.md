@@ -43,6 +43,7 @@ collection: portfolio
 
 
 ### Types of Breakdowns
+
 |                **Conversation Flow**               | **Misunderstandings/Inability to respond** |           **Glitches**           |
 |:--------------------------------------------------:|:------------------------------------------:|:--------------------------------:|
 | Offering strange presets                           | Lack of acknowledgment                     | Typos                            |
