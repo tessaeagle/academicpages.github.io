@@ -28,9 +28,9 @@ collection: portfolio
 
 ### Participants
 - 3 participants, 10 days using each of the two apps
+- Participants chatted with Woebot daily for an average of 9.7 minutes and with Wysa daily for an average of 13.2 minutes
 
 ## Results
-
 <img src = '/images/chatbot_breakdowns.png' alt = ' '>
 
 > P1: It [Woebot] seemed to genuinely care about how I was feeling, it was patient and respected my space (if I wanted it), and wanted me to feel better <br>
