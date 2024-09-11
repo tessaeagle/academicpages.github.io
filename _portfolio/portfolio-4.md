@@ -1,6 +1,6 @@
 ---
 title: "Trust in Chatbots and Taxonomy of Breakdowns"
-excerpt: xxx<br><br><img src='/images/woebot_errors.png' alt = ''>"
+excerpt: xxx<br><br><img src='/images/chatbot_breakdowns.png' alt = ''>"
 collection: portfolio
 ---
 **Project Year:** 2020 <br>
