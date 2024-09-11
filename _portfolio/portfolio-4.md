@@ -43,25 +43,14 @@ collection: portfolio
 
 
 ### Types of Breakdowns
-**Conversation Flow**
-- Offering strange presets
-- Abrupt shifts in topics
-- Ill-timed Jokes
-- Illusion of choice 
-- Providing two options that are both yeses
-- Lack of variety - must fit into the closest option
-
-**Misunderstandings/Inability to respond**
-- Lack of acknowledgment
-- Inability to respond to emojis
-- Inability to understand free text
-- Continuing to an activity a user declined
-- Perceiving positive emotions as negative
-
-**Glitches**
-- Typos
-- Repeated queries/circular convos
-- Lack of timely response
+|                **Conversation Flow**               | **Misunderstandings/Inability to respond** |           **Glitches**           |
+|:--------------------------------------------------:|:------------------------------------------:|:--------------------------------:|
+| Offering strange presets                           | Lack of acknowledgment                     | Typos                            |
+| Abrupt shifts in topics                            | Inability to respond to emojis             | Repeated queries/circular convos |
+| Ill-timed Jokes                                    | Inability to understand free text          | Lack of timely response          |
+| Illusion of choice                                 | Continuing to an activity a user declined  |                                  |
+| Providing two options that are both yeses          | Perceiving positive emotions as negative   |                                  |
+| Lack of variety - must fit into the closest option |                                            |                                  |
 
 <img src='/images/wysa_errors.png'>
 <img src='/images/woebot_errors.png'>
