@@ -46,11 +46,11 @@ collection: portfolio
 
 |                **Conversation Flow**               | **Misunderstandings/Inability to respond** |           **Glitches**           |
 |:--------------------------------------------------:|:------------------------------------------:|:--------------------------------:|
-| Offering strange presets                           | Lack of acknowledgment                     | Typos                            |
-| Abrupt shifts in topics                            | Inability to respond to emojis             | Repeated queries/circular convos |
-| Ill-timed Jokes                                    | Inability to understand free text          | Lack of timely response          |
-| Illusion of choice                                 | Continuing to an activity a user declined  |                                  |
-| Providing two options that are both yeses          | Perceiving positive emotions as negative   |                                  |
+|              Offering strange presets              |           Lack of acknowledgment           |               Typos              |
+|               Abrupt shifts in topics              |       Inability to respond to emojis       | Repeated queries/circular convos |
+|                   Ill-timed Jokes                  |      Inability to understand free text     |      Lack of timely response     |
+|                 Illusion of choice                 |  Continuing to an activity a user declined |                                  |
+|      Providing two options that are both yeses     |  Perceiving positive emotions as negative  |                                  |
 | Lack of variety - must fit into the closest option |                                            |                                  |
 
 <img src='/images/wysa_errors.png'>
