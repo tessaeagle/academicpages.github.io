@@ -29,7 +29,7 @@ author_profile: true
 **Eagle T**, Stuart F, Chua AS, LaRussa A, Leclaire K, Cook SL, Chitnis T, Weiner HL, Glanz BI, Healy BC. *Treatment satisfaction across injectable, infusion, and oral disease-modifying therapies for multiple sclerosis*. Multiple sclerosis and related disorders. 2017.
 
 ## Conference Papers  <a id="conf"></a>
-### Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds
+### [Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds](https://dl.acm.org/doi/10.1145/3686974)
 Ringland, K.E., Carstensdottir, E., Tung, M., Seetharaman, B., **Eagle, T.**, Baltaxe-Admony, L.B., Wetherwax, K. “Together in the Mikrokosmos: Exploring Disabled Embodied Experiences in Designed Sociotechnical Worlds”. ACM Conference on Computer Supported Cooperative Work. 2024.
 
 ### ["Caption it in an Accessible Way That Is Also Enjoyable”: Characterizing User-Driven Captioning Practices on TikTok](https://dl.acm.org/doi/abs/10.1145/3613904.3642177)
