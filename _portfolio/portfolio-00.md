@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Background
 
-**Project Year:** 2021 - 2023
+**Project Year:** 2021 - 2023 <br>
 [Full Paper](https://doi.org/10.1145/3597638.3608400)
 
 
