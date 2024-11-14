@@ -7,6 +7,8 @@ collection: portfolio
 ## Background
 
 **Project Year:** 2021 - 2023
+[Full Paper](https://doi.org/10.1145/3597638.3608400)
+
 
 ## Objective and Motivation
 - Adult ADHD and ADHD presentation in gender and racially-diverse populations is understudied
