@@ -7,7 +7,8 @@ collection: portfolio
 ## Background
 
 **Project Year:** 2022 - 2024 <br><br>
-[Extended Abstract](https://dl.acm.org/doi/abs/10.1145/3597638.3614486)
+[Extended Abstract](https://dl.acm.org/doi/abs/10.1145/3597638.3614486) <br>
+[Full Paper](https://dl.acm.org/doi/10.1145/3689648)
 
 ## Objectives
 - Explore how neurodivergent individuals define and use body doubling.
