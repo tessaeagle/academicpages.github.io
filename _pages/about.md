@@ -16,7 +16,7 @@ qualitative research. I have expertise in driving user-centered design by deeply
 - 4+ years in clinical healthcare and biotech
 - 15+ peer-reviewed publications in the digital health and social media space
 
-**I'm on the job market for industry UX Research roles or industry post-docs starting in Fall 2024.** Please reach out if you have openings or know of interesting opportunities :) Feel free to email me at teagle [at] ucsc [dot] edu or read more about my experience: <a href="https://drive.google.com/file/d/1BAEb6ynPP49lkL_couNct3ezDAL7Pu_M/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
+**I'm on the job market for industry UX Research roles or industry post-docs starting in Fall 2024.** Please reach out if you have openings or know of interesting opportunities :) Feel free to email me at teagle [at] ucsc [dot] edu or read more about my experience: <a href="https://drive.google.com/file/d/16zLvKctehJvZacTqg7H17zGcpJegcKPz/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
 
 ## Current Projects
 * Discovery of ADHD on social media and community benefits [(ASSETS Paper)](https://drive.google.com/file/d/1OBNMfZmTm036DeW_ZPJz7g6Q6IBvZRyj/view)
