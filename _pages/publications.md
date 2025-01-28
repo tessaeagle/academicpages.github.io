@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+My work has been featured at the CHI, CSCW, and ASSETS conferences and in various ACM journals.
+
 1. [Journal Papers](#journal)
 2. [Conference Papers](#conf)
 4. [Public Scholarship](#pub)
