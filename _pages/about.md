@@ -13,4 +13,4 @@ I help to improve the experience of technology and products for end users and ma
 
 I thrive on tackling big and messy questions in the health tech space and am passionate about supporting well-being and inclusive technology experiences. I recently completed my PhD in Human-Computer Interaction, researching social media, digital health, neurodiversity, and accessibility.
 
-Feel free to email me at eagle [dot] tessa [at] gmail [dot] com or read more about my experience: <a href="https://drive.google.com/file/d/16zLvKctehJvZacTqg7H17zGcpJegcKPz/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
+Let’s connect: eagle [dot] tessa [at] gmail [dot] com or read more about my experience: <a href="https://drive.google.com/file/d/16zLvKctehJvZacTqg7H17zGcpJegcKPz/view?usp=sharing">Resume</a>, <a href="https://docs.google.com/document/d/1fVXjq2zpsLfV2D0ZVPjSc5PEJuSGxBjOFSl-BDnDwGc/edit?usp=sharing">Full CV</a>
